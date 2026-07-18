@@ -15,16 +15,54 @@ msgstr ""
 msgid "No results found"
 msgstr ""
 
+msgid "Projects using SuperTuxKart"
+msgstr ""
+
+msgid "Powerups"
+msgstr ""
+
+msgid "Posters"
+msgstr ""
+
+msgid "Performance Testing"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "Making Tracks: Advanced Gameplay Design"
+msgstr ""
+
 msgid "SuperTuxKart"
 msgstr ""
 
+msgid "The History of SuperTuxKart"
+msgstr ""
+
+msgid "Gallery"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+# Posters page
 msgid "Download"
+msgstr ""
+
+# Donation Policy page - main title
+msgid "Donation Policy"
+msgstr ""
+
+msgid "Donate"
 msgstr ""
 
 msgid "Discover"
 msgstr ""
 
 msgid "Community"
+msgstr ""
+
+msgid "Characters"
 msgstr ""
 
 # Table of contents which display near the top of each page
@@ -38,19 +76,7 @@ msgstr ""
 msgid "Menu"
 msgstr ""
 
-msgid "FAQ"
-msgstr ""
-
-msgid "Team"
-msgstr ""
-
 msgid "Get Involved"
-msgstr ""
-
-msgid "Blog"
-msgstr ""
-
-msgid "Donate"
 msgstr ""
 
 # Dropdown menu which shows language selection, etc.
@@ -66,6 +92,9 @@ msgstr ""
 msgid "Forum"
 msgstr ""
 
+msgid "Blog"
+msgstr ""
+
 msgid "Twitter / X"
 msgstr ""
 
@@ -77,12 +106,6 @@ msgid "Media"
 msgstr ""
 
 msgid "YouTube"
-msgstr ""
-
-msgid "Gallery"
-msgstr ""
-
-msgid "Posters"
 msgstr ""
 
 msgid "Development"
@@ -108,7 +131,7 @@ msgstr ""
 msgid "About SuperTuxKart"
 msgstr ""
 
-msgid "Projects using SuperTuxKart"
+msgid "Terms and conditions"
 msgstr ""
 
 # Title of info popup which describes extra info
@@ -129,6 +152,168 @@ msgstr ""
 
 # Title of code popup which displays code snippet
 msgid "Code"
+msgstr ""
+
+msgid "Main Characters"
+msgstr ""
+
+# Characters page - character name
+msgid "Tux"
+msgstr ""
+
+# Characters page - description
+msgid "The hero of SuperTuxKart. Tux is a brave penguin who must save his friend, Gnu, from the evil clutches of Nolok. Tux is the mascot of Linux."
+msgstr ""
+
+# Characters page - character name
+msgid "Gnu"
+msgstr ""
+
+# Characters page - description
+msgid "Tux's wise mentor, Gnu rides a flying carpet and lives peacefully in a pagoda. When Nolok captures him, the entire kingdom will try to save him. Gnu is the mascot of the GNU Project."
+msgstr ""
+
+# Characters page - character name
+msgid "Nolok"
+msgstr ""
+
+# Characters page - description
+msgid "The villain of SuperTuxKart, Nolok is always concocting some sort of malevolent plan inside his fiery lava castle."
+msgstr ""
+
+msgid "Additional Characters"
+msgstr ""
+
+# Characters page - character name
+msgid "Sara"
+msgstr ""
+
+# Characters page - description
+msgid "Sara is a powerful magician, and the ruler of the Mascot Kingdom. She races using a specialised snowmobile. She is the mascot of the OpenGameArt website."
+msgstr ""
+
+# Characters page - character name
+msgid "Wilber"
+msgstr ""
+
+# Characters page - description
+msgid "Wilber is the official cameraman who works for WTXB-TV to record kart races, which are very popular in the Mascot Kingdom. He is the mascot of GIMP."
+msgstr ""
+
+# Characters page - character name
+msgid "Puffy"
+msgstr ""
+
+# Characters page - description
+msgid "Puffy races mainly to earn enough money to accomplish his dream: to buy a submarine. He is the mascot of the OpenBSD project."
+msgstr ""
+
+# Characters page - character name
+msgid "Pidgin"
+msgstr ""
+
+# Characters page - description
+msgid "Pidgin's ability to fly makes him perfect to deliver the results of the Grand Prix around the Mascot Kingdom. He is the mascot of Pidgin."
+msgstr ""
+
+# Characters page - character name
+msgid "Godette"
+msgstr ""
+
+# Characters page - description
+msgid "Godette is the mascot of Godot and truly a tech girl. She is never seen without her friend, GDBot, a robot she built and programmed herself. They even race together in a unique tandem kart."
+msgstr ""
+
+# Characters page - character name
+msgid "Amanda"
+msgstr ""
+
+# Characters page - description
+msgid "Amanda was rescued by monks when they found her in a basket as a cub. She now teaches the ancient art of racing in a monastery. She is the mascot of Window Maker."
+msgstr ""
+
+# Characters page - character name
+msgid "Emule"
+msgstr ""
+
+# Characters page - description
+msgid "Emule's superior knowledge of mechanical engineering allowed him to build his own kart with a turbocharged engine. He is the mascot of eMule."
+msgstr ""
+
+# Characters page - character name
+msgid "Suzanne"
+msgstr ""
+
+# Characters page - description
+msgid "Racing has been Suzanne's dream since childhood. She began her racing career in the prestigious Kart Academy of Val Verde. She is the mascot of Blender."
+msgstr ""
+
+# Characters page - character name
+msgid "Gavroche"
+msgstr ""
+
+# Characters page - description
+msgid "Gavroche is a goblin that owns the Ravenbridge mansion. Sometimes he makes scary noises, tricking people into thinking the house is haunted. He is the mascot of MediaGoblin."
+msgstr ""
+
+# Characters page - character name
+msgid "Hexley"
+msgstr ""
+
+# Characters page - description
+msgid "Hexley's ancestors started kart racing many years ago, and generation after generation, they became very good at it. He is the mascot of Darwin."
+msgstr ""
+
+# Characters page - character name
+msgid "Xue"
+msgstr ""
+
+# Characters page - description
+msgid "Xue likes to stand out from the crowd, and her unusual kart reflects this. She races a special hovercraft, which is small enough to be driven by a mouse. She is the mascot of XFCE."
+msgstr ""
+
+# Characters page - character name
+msgid "Konqi"
+msgstr ""
+
+# Characters page - description
+msgid "While Konqi's ancient ancestors were dangerous and feared, dragons today are harmless... mostly. He is the mascot of the KDE project."
+msgstr ""
+
+# Characters page - character name
+msgid "Adiumy"
+msgstr ""
+
+# Characters page - description
+msgid "Adiumy started kart racing when he realized his legs are too short to be a soccer star. Although the other mascots sometimes make fun of his waddling gait, he is highly respected as one of the most talented racing drivers in the kingdom. Adiumy is the mascot of Adium."
+msgstr ""
+
+# Characters page - character name
+msgid "Kiki"
+msgstr ""
+
+# Characters page - description
+msgid "A Krita user first drew Kiki for a training manual, but as soon as the manual was printed, Kiki decided to jump off the pages and race around the world on her pen-powered aeroplane. Kiki is the mascot of the Krita digital painting program."
+msgstr ""
+
+# Characters page - character name
+msgid "Pepper"
+msgstr ""
+
+# Characters page - description
+msgid "Pepper is a little witch who loves playing with her cat Carrot. Her enthusiasm for racing ignited when her friend Kiki helped her to tune her broom with a nitro injection system and custom exhaust tips. Pepper is the main character of the Pepper & Carrot project."
+msgstr ""
+
+msgid "...And many more!"
+msgstr ""
+
+msgid "You can create your own characters, tracks, and arenas and share them with the SuperTuxKart community! You can do this by going to [online.supertuxkart.net](https://online.supertuxkart.net)."
+msgstr ""
+
+msgid "If you are interested you can take a look at the [community](Community) page."
+msgstr ""
+
+msgid "Return to Discover"
 msgstr ""
 
 msgid "How to contribute code"
@@ -155,7 +340,7 @@ msgstr ""
 msgid "Reddit"
 msgstr ""
 
-msgid "You can also look at the [archived old forum](https://forum.freegamedev.net/viewforum.php?f=16) for past discussions."
+msgid "You can also look at the [archived old forum](https://web.archive.org/web/20250831014534/https://forum.freegamedev.net/viewforum.php?f=16) for past discussions."
 msgstr ""
 
 msgid "You can also support us with a donation!"
@@ -213,9 +398,6 @@ msgstr ""
 msgid "Voice Acting"
 msgstr ""
 
-msgid "Terms and conditions"
-msgstr ""
-
 msgid "Privacy policy"
 msgstr ""
 
@@ -260,137 +442,304 @@ msgstr ""
 msgid "Creating"
 msgstr ""
 
-# Page title of discover page
+# Discover page - page title
 msgid "Welcome to the Mascot Kingdom!"
 msgstr ""
 
+# Discover page
 msgid "Karts. Nitro. Action! SuperTuxKart is a 3D open-source arcade racer with a variety of characters, tracks, and modes to play. Our aim is to create a game that is more fun than realistic, and provide an enjoyable experience for all ages."
 msgstr ""
 
+# Discover page
 msgid "In Story mode, you must face the evil Nolok, and defeat him in order to make the Mascot Kingdom safe once again! You can race by yourself against the computer, compete in several Grand Prix cups, or try to beat your fastest time in Time Trial mode. You can also race, battle or play soccer with up to eight friends on a single computer, play on a local network or play online with other players all over the world."
 msgstr ""
 
-msgid "Main Characters"
+# Discover page - section title
+msgid "Exciting tracks"
 msgstr ""
 
-msgid "Tux"
+# Discover page
+msgid "**SuperTuxKart 1.5 features 21 official tracks**, as well as two gift package tracks that will become part of the base game with STK Evolution."
 msgstr ""
 
-msgid "The hero of SuperTuxKart. Tux is a brave penguin who must save his friend, Gnu, from the evil clutches of Nolok. Tux is the mascot of Linux."
+# Discover page
+msgid "SuperTuxKart's tracks offer many environments, from snowy mountains to tropical jungles, from underground tunnels to spaceships."
 msgstr ""
 
-msgid "Gnu"
+# Discover page
+msgid "There is also a wide variety in gameplay, including alternative paths and secret paths just waiting to be discovered."
 msgstr ""
 
-msgid "Tux's wise mentor, Gnu rides a flying carpet and lives peacefully in a pagoda. When Nolok captures him, the entire kingdom will try to save him. Gnu is the mascot of the GNU Project."
+# Discover page
+msgid "**Dozens of fun addon tracks can also be installed** within the game to keep the experience fresh."
 msgstr ""
 
-msgid "Nolok"
+# Discover page - section title
+msgid "Endearing characters"
 msgstr ""
 
-msgid "The villain of SuperTuxKart, Nolok is always concocting some sort of malevolent plan inside his fiery lava castle."
+# Discover page
+msgid "SuperTuxKart 1.5 offers 18 official karts, within three different kart classes."
 msgstr ""
 
-msgid "Additional Characters"
+# Discover page
+msgid "Many of SuperTuxKart's characters are mascots of open-source projects, including Tux the penguin. Get to know them better by visiting our [Characters page](Characters)!"
 msgstr ""
 
-msgid "Sara"
+# Discover page
+msgid "Hundreds of additional karts are also available as addons."
 msgstr ""
 
-msgid "Sara is a powerful magician, and the ruler of the Mascot Kingdom. She races using a specialised snowmobile. She is the mascot of the OpenGameArt website."
+# Discover page - section title
+msgid "Varied powerups"
 msgstr ""
 
-msgid "Wilber"
+# Discover page
+msgid "There are 9 different powerups available in SuperTuxKart 1.5, which players can collect in gift boxes."
 msgstr ""
 
-msgid "Wilber is the official cameraman who works for WTXB-TV to record kart races, which are very popular in the Mascot Kingdom. He is the mascot of GIMP."
+# Discover page
+msgid "Players in worse positions get better powerups to help them catch up, but there is also a lot of skill involved to get the most out of the powerups you receive."
 msgstr ""
 
-msgid "Puffy"
+# Discover page
+msgid "Visit our [Powerups page](Powerups) for more details: from quick overviews to detailed explanations about how each powerup work and usage tips, it is a treasure trove of information."
 msgstr ""
 
-msgid "Puffy races mainly to earn enough money to accomplish his dream: to buy a submarine. He is the mascot of the OpenBSD project."
+# Discover page - section title
+msgid "Many game modes"
 msgstr ""
 
-msgid "Pidgin"
+# Discover page
+msgid "**Racing with powerups is SuperTuxKart's core game mode**, with Story Mode offering challenges centered around racing to unlock all the game's content."
 msgstr ""
 
-msgid "Pidgin's ability to fly makes him perfect to deliver the results of the Grand Prix around the Mascot Kingdom. He is the mascot of Pidgin."
+# Discover page
+msgid "Some additional game modes are based on racing: **Time-Trial** allows players to test their raw driving skills without powerups; Follow-the-Leader is an elimination race."
 msgstr ""
 
-msgid "Godette"
+# Discover page
+msgid "Other game modes bring a twist to the concept of a kart game: in **Egg Hunt**, players have to explore tracks to find the hidden eggs; in **Soccer**, a team-based mode with a dedicated online community, each team tries to score more goals; while Battle mode focuses on using powerups to attack other karts."
 msgstr ""
 
-msgid "Godette is the mascot of Godot and truly a tech girl. She is never seen without her friend, GDBot, a robot she built and programmed herself. They even race together in a unique tandem kart."
+# Discover page - section title
+msgid "Millions of downloads"
 msgstr ""
 
-msgid "Amanda"
+# Discover page
+msgid "SuperTuxKart has a worldwide community, with **over 6 million downloads and installations** across [Google Play](https://play.google.com/store/apps/details?id=org.supertuxkart.stk), [SourceForge](https://sourceforge.net/projects/supertuxkart/files/SuperTuxKart/stats/timeline?dates=2007-03-09%20to%202026-06-07), [GitHub](https://api.github.com/repos/supertuxkart/stk-code/releases) and [Flathub](https://flathub.org/en/apps/net.supertuxkart.SuperTuxKart). This figure doesn't include numerous installations through sources such as Linux package managers and website mirrors."
 msgstr ""
 
-msgid "Amanda was rescued by monks when they found her in a basket as a cub. She now teaches the ancient art of racing in a monastery. She is the mascot of Window Maker."
+# Discover page
+msgid "**Every day, over 100 players create a new SuperTuxKart online account.**"
 msgstr ""
 
-msgid "Emule"
+# Discover page - section title
+msgid "Twenty years of history"
 msgstr ""
 
-msgid "Emule's superior knowledge of mechanical engineering allowed him to build his own kart with a turbocharged engine. He is the mascot of eMule."
+# Discover page
+msgid "Powered by the passion of its contributors, **SuperTuxKart as a project has been in development for over 20 years.**"
 msgstr ""
 
-msgid "Suzanne"
+# Discover page
+msgid "During this time period, SuperTuxKart has improved tremendously, with considerable changes in every aspect of the game, allowing it to remain the foremost reference for libre and open-source games."
 msgstr ""
 
-msgid "Racing has been Suzanne's dream since childhood. She began her racing career in the prestigious Kart Academy of Val Verde. She is the mascot of Blender."
+# Discover page
+msgid "Check out [our illustrated history of SuperTuxKart](History_of_SuperTuxKart) to discover more."
 msgstr ""
 
-msgid "Gavroche"
+# Discover page - section title
+msgid "The team behind the game"
 msgstr ""
 
-msgid "Gavroche is a goblin that owns the Ravenbridge mansion. Sometimes he makes scary noises, tricking people into thinking the house is haunted. He is the mascot of MediaGoblin."
+# Discover page
+msgid "The SuperTuxKart project is currently led by **Alayan** and **Sven**. BcfWorld, Samuncle and LLS are also part of the team. For many years, the project was led by **Hiker** and **Auria**."
 msgstr ""
 
-msgid "Hexley"
+# Discover page
+msgid "Thanks to the libre and open-source nature of SuperTuxKart, hundreds of people have contributed over the years, ensuring the project always stays alive."
 msgstr ""
 
-msgid "Hexley's ancestors started kart racing many years ago, and generation after generation, they became very good at it. He is the mascot of Darwin."
+# Discover page
+msgid "You can find more information about the people behind SuperTuxKart on our [Team](Team) page!"
 msgstr ""
 
-msgid "Xue"
+# Discover page - section title
+msgid "SuperTuxKart Evolution"
 msgstr ""
 
-msgid "Xue likes to stand out from the crowd, and her unusual kart reflects this. She races a special hovercraft, which is small enough to be driven by a mouse. She is the mascot of XFCE."
+# Discover page
+msgid "**SuperTuxKart Evolution is our project's next major release, designed as a new game within the same game series.**"
 msgstr ""
 
-msgid "Konqi"
+# Discover page
+msgid "It will bring major updates to all aspects of the game, with new tracks, new karts, improved game mechanics, new powerups, improve graphical quality, and more. A [general overview](https://blog.supertuxkart.net/2025/09/supertuxkart-evolution-roadmap.html) is available on our blog."
 msgstr ""
 
-msgid "While Konqi's ancient ancestors were dangerous and feared, dragons today are harmless... mostly. He is the mascot of the KDE project."
+# Discover page
+msgid "You can find more information about the project and how to stay informed about it in [our FAQ](FAQ#supertuxkart-evolution)."
 msgstr ""
 
-msgid "Adiumy"
+# Discover page - section title
+msgid "Start racing now!"
 msgstr ""
 
-msgid "Adiumy started kart racing when he realized his legs are too short to be a soccer star. Although the other mascots sometimes make fun of his waddling gait, he is highly respected as one of the most talented racing drivers in the kingdom. Adiumy is the mascot of Adium."
+# Discover page
+msgid "Head to [our Download page](Download) to get the latest SuperTuxKart version for your device!"
 msgstr ""
 
-msgid "Kiki"
+# Section title in the Donate page
+msgid "Donating to SuperTuxKart"
 msgstr ""
 
-msgid "A Krita user first drew Kiki for a training manual, but as soon as the manual was printed, Kiki decided to jump off the pages and race around the world on her pen-powered aeroplane. Kiki is the mascot of the Krita digital painting program."
+# Donate page - avoid double-quotes to not break the layout!
+msgid "If you enjoyed SuperTuxKart and would like to help the project, or just to say thank you, you may donate to help us! SuperTuxKart now uses itch.io to receive donations. Click on the 'Download Now' button and you will be able to select your donation amount."
 msgstr ""
 
-msgid "Pepper"
+# Donate page
+msgid "Donations help us improve the game, as they may be used for purchasing hardware, file hosting and distribution services, servers to host websites, paying artists to produce improved artwork, and more. You can learn more about our policy [here](Donation_Policy)."
 msgstr ""
 
-msgid "Pepper is a little witch who loves playing with her cat Carrot. Her enthusiasm for racing ignited when her friend Kiki helped her to tune her broom with a nitro injection system and custom exhaust tips. Pepper is the main character of the Pepper & Carrot project."
+# Donate page
+msgid "Do not hesitate to contact us if you have any questions or problems!"
 msgstr ""
 
-msgid "...And many more!"
+# Section title in the Donate page
+msgid "Gift Package"
 msgstr ""
 
-msgid "You can create your own characters, tracks, and arenas and share them with the SuperTuxKart community! You can do this by going to [online.supertuxkart.net](https://online.supertuxkart.net)."
+# Donate page
+msgid "Alongside SuperTuxKart 1.5, a donation package including two tracks developed for SuperTuxKart Evolution - Drainage Dash and Freytra Peaks - is available for donations of 5$ or more."
 msgstr ""
 
-msgid "If you are interested you can take a look at the [community](Community) page."
+# Donate page - avoid double-quotes to not break the layout!
+msgid "To install the package, first retrieve the '1.5 Gift Package' on itch.io, unzip the file, and follow the instructions in the included README. The procedure follows the [manual addons installation](Installing_Add-Ons) procedure."
+msgstr ""
+
+# Donate page
+msgid "Unfortunately as of now, we are not able to offer an in-game installation procedure or a simple installation procedure for Android users. We are aware of this limitation, but we didn't want to delay 1.5's release to all users to solve it."
+msgstr ""
+
+# Section title in the Donate page
+msgid "Other donation methods"
+msgstr ""
+
+# Donate page
+msgid "Several community members have requested other methods to help fund SuperTuxKart."
+msgstr ""
+
+# Donate page
+msgid "We are looking into ways to make recurrent donations possible."
+msgstr ""
+
+# Donate page
+msgid "As a response to the request for more anonymous methods, we have established a way to donate using cryptocurrencies. Simply follow the instruction below. Everything is handled on supertuxkart.net! At the end of the process, you will also be able to retrieve the gift package."
+msgstr ""
+
+# Donate page
+msgid "Please note that the minimum donation with this method is higher to avoid overhead from tiny transactions."
+msgstr ""
+
+# Donation Policy page
+msgid "This page documents SuperTuxKart's policy regarding donations and what we do with money received. These policies might change at any time depending on the requirements and the priorities of the project."
+msgstr ""
+
+# Donation Policy page
+msgid "However, you may rest assured that the team will not spend money on inconsequential things. All spending decisions are fully discussed among the members of the team ahead of time in order to avoid disagreements."
+msgstr ""
+
+# Donation Policy - section title
+msgid "Compensating developers and artists"
+msgstr ""
+
+# Donation Policy page
+msgid "A common characteristic of libre and open-source projects that compete successfuly with proprietary alternatives - such as Blender, OBS, Krita, and Lichess - is the use of donations to make development sustainable."
+msgstr ""
+
+# Donation Policy page
+msgid "SuperTuxKart has achieved much through the passion of volunteers. However, to realize its full potential and offer the community the new content and features it desires, it needs to be more than a hobby."
+msgstr ""
+
+# Donation Policy page
+msgid "Some of our developers and artists are willing to dedicate significantly more time to the game, but have to balance this desire with the risk of burnout and the need of a livelihood. Financial support allows to reconcile those concerns. It could also allow the project to hire external specialists for highly specialized tasks."
+msgstr ""
+
+# Donation Policy page
+msgid "Donations therefore mean faster and more sustainable development. For context, modern commercial racing games usually employ dozens of artists and developers. The SuperTuxKart project aims to do more with less, but your donations are the key for an open-source game that competes with them."
+msgstr ""
+
+# Donation Policy page
+msgid "All decisions regarding compensation are decided on a case-by-case basis and discussed within the team to reach a consensus. Compensation depends on the project's funds, the scope of the work, and the contributor's long-term commitment to the project."
+msgstr ""
+
+# Donation Policy page
+msgid "Of course, SuperTuxKart continues to warmly welcome anyone willing to volunteer through art, code, etc. Tomorrow's core contributors will grow from today's volunteers."
+msgstr ""
+
+# Donation Policy - section title
+msgid "Online infrastructure"
+msgstr ""
+
+# Donation Policy page
+msgid "Donations are used to cover the costs inherent to SuperTuxKart's online infrastructure."
+msgstr ""
+
+# Donation Policy page
+msgid "This includes domain name fees, and server hosting costs for:"
+msgstr ""
+
+# Donation Policy page
+msgid "The main website - crucial for the game's promotion and distribution"
+msgstr ""
+
+# Donation Policy page
+msgid "The addons website - responsible for addons distribution, online accounts, and online multiplayer"
+msgstr ""
+
+# Donation Policy page
+msgid "The official forum - a place to exchange with other players and ask questions"
+msgstr ""
+
+# Donation Policy page
+msgid "Official game servers - ranked races"
+msgstr ""
+
+# Donation Policy page
+msgid "Likewise, donations may be used to cover fees required for the distribution of SuperTuxKart on some platforms, such as Android and iOS."
+msgstr ""
+
+# Donation Policy - section title
+msgid "Hardware and software"
+msgstr ""
+
+# Donation Policy page
+msgid "The project may acquire specific hardware if it serves the game's development, such as:"
+msgstr ""
+
+# Donation Policy page
+msgid "Better computer components (CPU, GPU, monitor...) to improve the workflow of a developer or an artist"
+msgstr ""
+
+# Donation Policy page
+msgid "Hardware with which we want to improve SuperTuxKart's compatibility"
+msgstr ""
+
+# Donation Policy page
+msgid "Etc."
+msgstr ""
+
+# Donation Policy page
+msgid "The project may also pay licenses for professional software for which no suitable free alternative exists, particularly for assets creation."
+msgstr ""
+
+# Donation Policy - section title
+msgid "Marketing and promotion"
+msgstr ""
+
+# Donation Policy page
+msgid "Donations may also be used to cover costs (travel, etc.) related to representing SuperTuxKart in events such as gaming conventions and open source conferences."
 msgstr ""
 
 # Full game installer / packages for STK
@@ -478,13 +827,799 @@ msgstr ""
 msgid "Public testing builds for SuperTuxKart Evolution are not yet available. "
 msgstr ""
 
+# FAQ page - section title
+msgid "General Questions"
+msgstr ""
+
+# FAQ page - question
+msgid "What is SuperTuxKart?"
+msgstr ""
+
+# FAQ page
+msgid "SuperTuxKart is a **free, open-source, cross-platform kart racing game**, with over **5 million downloads** and two decades of development history."
+msgstr ""
+
+# FAQ page
+msgid "SuperTuxKart blends **intuitive controls** for beginners and **advanced mechanics** for experts, with 21 original tracks to discover, a **Story Mode**, as well as local and **online multiplayer** to play with your friends."
+msgstr ""
+
+# FAQ page
+msgid "SuperTuxKart also features additional game modes such as Time-Trial, Soccer, and Egg Hunt, with hundreds of community-made addons to always keep the game fresh."
+msgstr ""
+
+# FAQ page
+msgid "Find out more [on our 'Discover' page](Discover)!"
+msgstr ""
+
+# FAQ page - question
+msgid "What platforms is SuperTuxKart available on?"
+msgstr ""
+
+# FAQ page
+msgid "The SuperTuxKart team provides [official binaries](Download) for **Linux**, **Windows**, **Mac**, **Android**, and Switch Homebrew."
+msgstr ""
+
+# FAQ page
+msgid "SuperTuxKart is also available unofficially [on **iOS**](https://apps.apple.com/app/supertuxkart/id6737858957) through the AppStore, and in the package managers of select BSD distributions. Linux users can also get the game as an [AppImage](https://github.com/ivan-hc/SuperTuxKart-appimage/releases/tag/1.5), as a [Flatpak](https://flathub.org/en/apps/net.supertuxkart.SuperTuxKart), or as a Snap."
+msgstr ""
+
+# FAQ page - question
+msgid "Is SuperTuxKart really free?"
+msgstr ""
+
+# FAQ page
+msgid "Yes! **SuperTuxKart is available for free, without any kind of active ads or microtransactions.**"
+msgstr ""
+
+# FAQ page
+msgid "Some new tracks are available in early access for donators as part of our [gift package](Donate), they will however be made available to everyone for free in upcoming releases."
+msgstr ""
+
+# FAQ page
+msgid "The SuperTuxKart team has a firm belief that **software should respect and serve its users**. This means respecting privacy, but also being respectful of the users' time and fun. This disqualifies nearly all forms of advertisement. However, we may name sponsors in the credits, or include passive environmental advertising elements (like billboards near race tracks) provided they fit the game’s aesthetic."
+msgstr ""
+
+# FAQ page - question
+msgid "What are the hardware requirements?"
+msgstr ""
+
+# FAQ page
+msgid "**SuperTuxKart runs well on most devices.** You might want to [use the integrated benchmark](Performance_testing) to optimize your settings to get the best mix of eye-candy and smoothness for your device."
+msgstr ""
+
+# FAQ page
+msgid "**Desktop**"
+msgstr ""
+
+# FAQ page
+msgid "**GPU**"
+msgstr ""
+
+# FAQ page
+msgid "The GPU is usually the limitation for STK's performance. Cards meeting the minimal requirements have the OpenGL support to run the game, but require low resolution and low graphics for smooth play. Cards meeting or exceeding the recommended requirements can run STK's most demanding track at 60FPS/1080p with the modern rendering pipeline on graphics 4."
+msgstr ""
+
+# FAQ page
+msgid "**Recommended**: NVIDIA GeForce GTX 950, AMD Radeon RX 460, or stronger; At least 1 GB VRAM (video memory)."
+msgstr ""
+
+# FAQ page
+msgid "**Minimal**: NVIDIA GeForce 470 GTX, AMD Radeon 6870 HD series card or Intel HD Graphics 4000; At least 512 MB VRAM (video memory)."
+msgstr ""
+
+# FAQ page
+msgid "**CPU**"
+msgstr ""
+
+# FAQ page
+msgid "The CPU performance might be the limitation depending on graphics card and graphics setting, mostly for online play which is more CPU-intensive. Good CPU performance helps ensure high framerate and more importantly smoothness. For STK, single-thread performance is paramount."
+msgstr ""
+
+# FAQ page
+msgid "**Recommended**: Core i5-2400 single-thread performance or higher. This includes AMD Ryzen desktop CPUs, most Intel desktop CPUs since 2012 and recent mobile CPUs."
+msgstr ""
+
+# FAQ page
+msgid "**Minimal**: Any Intel or AMD dual-cores processors. Very old models and low-clocked mobile parts may struggle, especially in online play."
+msgstr ""
+
+# FAQ page
+msgid "**Mobile**"
+msgstr ""
+
+# FAQ page
+msgid "Android: Android 5.0 or later"
+msgstr ""
+
+# FAQ page
+msgid "iOS: iOS 13 or later"
+msgstr ""
+
+# FAQ page
+msgid "By default, SuperTuxKart uses a render resolution below 100% on mobile to improve performance."
+msgstr ""
+
+# FAQ page
+msgid "**Other requirements**"
+msgstr ""
+
+# FAQ page
+msgid "At least 1 GB of free RAM"
+msgstr ""
+
+# FAQ page
+msgid "Disk space: 800MB"
+msgstr ""
+
+# FAQ page
+msgid "**Optional**"
+msgstr ""
+
+# FAQ page
+msgid "A display with a refresh rate of 120Hz or higher. SuperTuxKart is perfectly playable and fun on ordinary 60Hz displays, but the smoother motion and reduced input latency from high refresh rate displays further enhances the playing experience."
+msgstr ""
+
+# FAQ page
+msgid "(If you prefer playing with a gamepad) A gamepad with at least 6 buttons."
+msgstr ""
+
+# FAQ page - question
+msgid "My computer is too old to run SuperTuxKart. What should I do?"
+msgstr ""
+
+# FAQ page
+msgid "SuperTuxKart features a **fallback renderer** which only needs OpenGL 2.1, GLES 2, or DirectX 9. It lacks the advanced graphical effects that make the game pretty, but it should work on most devices."
+msgstr ""
+
+# FAQ page - question
+msgid "What is the history of SuperTuxKart?"
+msgstr ""
+
+# FAQ page
+msgid "The SuperTuxKart project as we know it exists since 2006, when Hiker began working on it, with roots in the older TuxKart."
+msgstr ""
+
+# FAQ page
+msgid "Over the years, with the help of many contributors, the game grew to become a reference among open-source games, with steady improvements in graphics and gameplay alike."
+msgstr ""
+
+# FAQ page
+msgid "Thanks to this recognition as well as its open nature, SuperTuxKart was and is used in [many projects](Projects), including numerous academic papers and demos from major companies."
+msgstr ""
+
+# FAQ page
+msgid "By the release of version 1.0 in 2019 with online multiplayer, SuperTuxKart was a mature project. Hiker passed the torch, and the project continued with a focus on polish and stability."
+msgstr ""
+
+# FAQ page
+msgid "Now, our team is actively working on writing the next page of history with SuperTuxKart Evolution, with a myriad of novelties in the works."
+msgstr ""
+
+# FAQ page
+msgid "You can consult our [illustrated history of SuperTuxKart](History_of_SuperTuxKart) for an in-depth exploration of the game's history."
+msgstr ""
+
+# FAQ page - question
+msgid "Is SuperTuxKart a Mario Kart clone?"
+msgstr ""
+
+# FAQ page
+msgid "No! The Mario Kart series is the most widely recognized franchise of kart racing games, but there are many others."
+msgstr ""
+
+# FAQ page
+msgid "There are many major differences between SuperTuxKart and Mario Kart, and while we sometimes look at other kart racing games to see how SuperTuxKart compares, SuperTuxKart continues evolving in its own unique direction."
+msgstr ""
+
+# FAQ page
+msgid "The 'clone' claim usually comes from sources that try to give a simplified explanation of what SuperTuxKart is while having only a superficial understanding of both game series."
+msgstr ""
+
+# FAQ page - question
+msgid "Who is behind SuperTuxKart ?"
+msgstr ""
+
+# FAQ page
+msgid "SuperTuxKart is currently led by **Alayan**, who manages the code and coordinates the team's efforts, and by **Sven**, who focuses on visual art and the creation of new tracks. Both have been involved in the project for nearly a decade."
+msgstr ""
+
+# FAQ page
+msgid "**Samuncle**, who was the game's lead artist for many years, currently plays an advisory role, while **BcfWorld** manages STK's online services."
+msgstr ""
+
+# FAQ page
+msgid "Among the most significant past team members are **Hiker**, project leader from 2006 to 2019, **Auria** who assisted him for a decade, **Devee** who created and maintained the Android version, and **Benau**, who was co-leader from 2019 to 2025."
+msgstr ""
+
+# FAQ page
+msgid "As is the nature of a libre and open-source project, a great number of people made contributions to SuperTuxKart over the years, from small changes to major improvements."
+msgstr ""
+
+# FAQ page
+msgid "See our [Team](Team) page for more information about the people behind SuperTuxKart!"
+msgstr ""
+
+# FAQ page - question
+msgid "How can I support the project?"
+msgstr ""
+
+# FAQ page
+msgid "There are two main ways to support SuperTuxKart's development:"
+msgstr ""
+
+# FAQ page
+msgid "You can [contribute **with a donation**](Donate). All the money received is used to cover the project's costs and to help make development work sustainable. Donations are essential for SuperTuxKart to compete with proprietary games."
+msgstr ""
+
+# FAQ page
+msgid "You can contribute **by directly making an improvement** for the game. Check the [Get involved](Community) page, it references information about contributing code, visual art, translations, and more. If you want to create something new, you should share your plans with the current developers and artists through the [forum](https://forum.supertuxkart.net/). This will greatly improve the chance that you contribution will be accepted."
+msgstr ""
+
+# FAQ page
+msgid "Simply participating in the community, and promoting SuperTuxKart through word-of-mouth, are also small ways to help!"
+msgstr ""
+
+# FAQ page - question
+msgid "What is SuperTuxKart Evolution?"
+msgstr ""
+
+# FAQ page
+msgid "SuperTuxKart Evolution is the name of the next major release of SuperTuxKart."
+msgstr ""
+
+# FAQ page
+msgid "A continuation of SuperTuxKart's long history, it will at the same time bring considerable change ; with a vast amount of new content and a strong focus on higher and more consistent quality."
+msgstr ""
+
+# FAQ page
+msgid "It aims to offer players the experience of a new game within the same game series."
+msgstr ""
+
+# FAQ page - question
+msgid "What changes are planned for SuperTuxKart Evolution?"
+msgstr ""
+
+# FAQ page
+msgid "Check our blog for a [general overview](https://blog.supertuxkart.net/2025/09/supertuxkart-evolution-roadmap.html). The main points are:"
+msgstr ""
+
+# FAQ page
+msgid "At least 8 new tracks,"
+msgstr ""
+
+# FAQ page
+msgid "Significant gameplay and graphical updates to all tracks carried over from 1.5,"
+msgstr ""
+
+# FAQ page
+msgid "Significant changes to game mechanics and physics, while keeping the essence of the SuperTuxKart feel,"
+msgstr ""
+
+# FAQ page
+msgid "New powerups as well as a revision of existing ones,"
+msgstr ""
+
+# FAQ page
+msgid "Several new karts, as well as new animations and other improvements for existing karts,"
+msgstr ""
+
+# FAQ page
+msgid "A new user interface rethought from the ground up,"
+msgstr ""
+
+# FAQ page
+msgid "A new Story Mode with over 40 challenges, including new cutscenes and new challenge types."
+msgstr ""
+
+# FAQ page
+msgid "Many other elements of the game not covered in this brief summary are also planned. Many of the planned changes affecting the code are indexed in the [STK Evolution milestone on GitHub](https://github.com/supertuxkart/stk-code/milestone/13)."
+msgstr ""
+
+# FAQ page - question
+msgid "Why Evolution and not 2.0?"
+msgstr ""
+
+# FAQ page
+msgid "We've chosen SuperTuxKart Evolution to signify that this is a new game within the same game series, rather than merely a big update."
+msgstr ""
+
+# FAQ page
+msgid "SuperTuxKart Evolution will bring an unprecedented number of changes and novelties to every aspect of the game (see 'What changes are planned for SuperTuxKart Evolution?'), and 2.0 was inadequate to convey this."
+msgstr ""
+
+# FAQ page
+msgid "There is continuity in code and assets, but that's the norm between a game and its sequel. Unlike most software which are defined primarily by their function, video games are primarily defined by the experience they provide through their gameplay and their story. Major changes to either are the essence of a new game."
+msgstr ""
+
+# FAQ page
+msgid "That's why we consider SuperTuxKart Evolution a new game."
+msgstr ""
+
+# FAQ page
+msgid "Please see our [History page](History_of_SuperTuxKart#a-new-game) for more details."
+msgstr ""
+
+# FAQ page - question
+msgid "How can I stay informed of STK Evolution's progress?"
+msgstr ""
+
+# FAQ page
+msgid "You can find blog posts covering major changes on [our blog](https://blog.supertuxkart.net/), as well as development videos on our [YouTube channel](https://www.youtube.com/@SuperTuxKartOfficial?sub_confirmation=1). SuperTuxKart's in-game news (in the 'Online' menu) provide notifications for new blog posts."
+msgstr ""
+
+# FAQ page
+msgid "Short posts are also published every week on [our Patreon page](https://members.supertuxkart.net/). These posts often showcase Evolution's improved visuals, but they also discuss the design choices we make, code changes, and other aspects of game development."
+msgstr ""
+
+# FAQ page
+msgid "Keep in mind that it takes time to prepare new videos and blog posts, and that we prefer to unveil novelties when they are ready. There is always a significant amount of 3D visual art that has been done but which hasn't been showcased yet."
+msgstr ""
+
+# FAQ page
+msgid "Likewise, many changes present in [the code of the Evolution branch](https://github.com/supertuxkart/stk-code/tree/BalanceSTK2) have not been publicly showcased yet, although you can browse the code history if you are interested."
+msgstr ""
+
+# FAQ page - question
+msgid "Will SuperTuxKart 1.x still be maintained?"
+msgstr ""
+
+# FAQ page
+msgid "A 1.5.1 release is currently planned to bring bugfixes, localization improvements, and minor features."
+msgstr ""
+
+# FAQ page
+msgid "No active development is planned afterwards, however the 1.x online services (online accounts, addons repository, server directory) will remain available even after SuperTuxKart Evolution's release."
+msgstr ""
+
+# FAQ page - section title
+msgid "Gameplay Questions"
+msgstr ""
+
+# FAQ page - gameplay section
+msgid "**The answers in this section assume that you are playing the latest stable release, SuperTuxKart 1.5.** Some details may not be applicable to old versions."
+msgstr ""
+
+# FAQ page - question
+msgid "What are SuperTuxKart's powerups?"
+msgstr ""
+
+# FAQ page
+msgid "SuperTuxKart 1.5 features 9 different powerups: zipper, bubblegum, plunger, bowling-ball, cake, swatter, parachute, basket-ball, and swapper (also known as switch)."
+msgstr ""
+
+# FAQ page
+msgid "Check our [Powerups page](Powerups) or the in-game help menu for more details."
+msgstr ""
+
+# FAQ page - question
+msgid "What are the available game modes?"
+msgstr ""
+
+# FAQ page
+msgid "The game modes available in SuperTuxKart 1.5 are:"
+msgstr ""
+
+# FAQ page
+msgid "**Normal race**, a racing mode with powerups to boost your kart or hinder rivals."
+msgstr ""
+
+# FAQ page
+msgid "**Time-Trial**, a racing mode without powerups, emphasizing raw driving skills."
+msgstr ""
+
+# FAQ page
+msgid "**Soccer**, in which two teams compete to score goals with a ball or a puck."
+msgstr ""
+
+# FAQ page
+msgid "**Egg Hunt**, in which a player explores a track to find eggs hidden in various locations."
+msgstr ""
+
+# FAQ page
+msgid "**Battle**, in which players use powerups to attack each other and score points. It has several subvariants, with Three-Strikes-Battle, Free-For-All, and Capture-the-Flag."
+msgstr ""
+
+# FAQ page
+msgid "**Follow-the-Leader**, a form of elimination race in which players are not allowed to overtake a leader kart."
+msgstr ""
+
+# FAQ page
+msgid "Normal Race, Time-Trial, and Follow-the-Leader support **Grand Prix mode**, in which several races are played in a row. After each race, points are scored based on the kart's final position, and the kart with the most points at the end wins the Grand Prix."
+msgstr ""
+
+# FAQ page
+msgid "SuperTuxKart offers a **Story Mode** in which players have to win a series of challenges, featuring normal races, time-trials, and Grand Prix."
+msgstr ""
+
+# FAQ page
+msgid "Time-Trial and Egg Hunts support the recording of replays, with the possibility to play against an existing replay to try and beat it."
+msgstr ""
+
+# FAQ page - question
+msgid "How does drifting work?"
+msgstr ""
+
+# FAQ page
+msgid "**In SuperTuxKart, you can drift to take tighter curves and to obtain speed boosts.** Simply press the appropriate key or button (indicated in the in-game tutorial or in the 'Controls' tab of the Options menu) while turning and the kart will start to drift."
+msgstr ""
+
+# FAQ page
+msgid "The initial hop of the kart helps to turn tighter. As long as you keep the drift input pressed, the kart will be forced to keep turning, but you can adjust how tightly."
+msgstr ""
+
+# FAQ page
+msgid "If you hold the drift long enough, spark particles will change and you will get a speed boost once you release the drift. In SuperTuxKart 1.5, there are 2 drift levels depending on how long the drift lasts."
+msgstr ""
+
+# FAQ page
+msgid "The key to mastering drifting is to [carefully position your kart](https://www.youtube.com/watch?v=Ol2z27AWZhg&t=111s) before you initiate the drift."
+msgstr ""
+
+# FAQ page - question
+msgid "How do I fire powerups backwards?"
+msgstr ""
+
+# FAQ page
+msgid "To fire a powerup backwards in SuperTuxKart, simply activate the powerup while also looking back."
+msgstr ""
+
+# FAQ page
+msgid "Go in the Options menu and check the 'Controls' tab to check or change the input needed to look back. On touchscreens, tap the rearview mirror to look back."
+msgstr ""
+
+# FAQ page - question
+msgid "Is the AI cheating?"
+msgstr ""
+
+# FAQ page
+msgid "No!"
+msgstr ""
+
+# FAQ page
+msgid "The speed limit and speed boosts are exactly the same for all the karts, AI or human. In lower difficulties, the AI might even slow down on purpose. The powerup probabilities when grabbing a gift box are also identical. There are minor differences in how quickly the karts can steer from a direction to another, but it gives no meaningful advantage to the AI and isn't meant to."
+msgstr ""
+
+# FAQ page
+msgid "The AI can sometimes have superhuman reflexes to use powerups, but if a human presses the right button at the right time, he can achieve the same result. There is also a lot of room to outsmart it."
+msgstr ""
+
+# FAQ page
+msgid "If you struggle to beat the AI, focus on improving your driving to crash as little as possible while going fast, and learn to use skidding. On higher difficulties, skidding is essential to beat the AI."
+msgstr ""
+
+# FAQ page - question
+msgid "Can I play STK online?"
+msgstr ""
+
+# FAQ page
+msgid "Yes! After creating an online STK account inside the game and connecting with it, select the 'Online' button in the main menu then 'Global networking' to access networked gameplay through the internet. You can host your own server for others to play on, or join community-hosted servers."
+msgstr ""
+
+# FAQ page
+msgid "For the best experience, a stable connection and a low ping to the server are important."
+msgstr ""
+
+# FAQ page - question
+msgid "Why does my kart feel slow compared to others?"
+msgstr ""
+
+# FAQ page
+msgid "Online, many players make heavy use of the drifting mechanic. If you feel slow compared to them, you can probably stand to drift more."
+msgstr ""
+
+# FAQ page
+msgid "Picking good trajectories and using nitro in small bursts is also important."
+msgstr ""
+
+# FAQ page - question
+msgid "I suddenly got a big red circle on my screen, what's that?"
+msgstr ""
+
+# FAQ page
+msgid "If there's a penguin in the middle of the circle, someone's shot a plunger at your face. You can do that to others by shooting the plunger backwards (see the FAQ entry about throwing powerups backwards)."
+msgstr ""
+
+# FAQ page - question
+msgid "How do I unlock all the tracks?"
+msgstr ""
+
+# FAQ page
+msgid "**The intended in-game way is to play Story Mode and beat all challenges.**"
+msgstr ""
+
+# FAQ page
+msgid "If however you want to unlock everything without playing Story Mode, you can also do so by editing a config file."
+msgstr ""
+
+# FAQ page
+msgid "Open the folder mentioned in the question 'Where is the configuration stored?'. From there, open the file 'players.xml', and replace all occurrences of 'none' with 'hard' (or 'easy' or 'medium', indicating the highest level at which you have solved a challenge)."
+msgstr ""
+
+# FAQ page - section title
+msgid "Technical Questions"
+msgstr ""
+
+# FAQ page - question
+msgid "Will my progress be preserved after updating the game?"
+msgstr ""
+
+# FAQ page
+msgid "Yes, all your progress and settings will be carried over if you are updating from a compatible version, such as 1.3 or 1.4 to 1.5."
+msgstr ""
+
+# FAQ page
+msgid "If you are updating from an incompatible version, such as 0.9.3 to 1.5, you will get a new user profile. Your progress and settings in the old version will remain safe and available when playing with the old version."
+msgstr ""
+
+# FAQ page
+msgid "Be aware that new compatible versions may introduce new setting parameters. If you have two compatible versions installed at the same time, the older version will not recognize settings specific to the newer one, and playing with the older version will reset changes you might have done to those new setting parameters."
+msgstr ""
+
+# FAQ page - question
+msgid "How can I improve performance on low end hardware?"
+msgstr ""
+
+# FAQ page
+msgid "There are several methods available:"
+msgstr ""
+
+# FAQ page
+msgid "Reduce your graphical settings. You can [use the integrated benchmark](Performance_testing) to test the changes. When using the modern renderer (graphics level 3 and up), you can reduce the render resolution. SuperTuxKart's UI will remain crisp but the rest of the game will be upscaled from a lower resolution."
+msgstr ""
+
+# FAQ page
+msgid "Set a lower value in the game's frame-limiter. Frames don't all take the same amount of time to render. By letting your hardware rest after fast frames, you get more thermal headroom for slower frames."
+msgstr ""
+
+# FAQ page
+msgid "Reduce the game's resolution."
+msgstr ""
+
+# FAQ page
+msgid "For online play, stick to nearby servers with a low latency. Higher latencies increase the load on your CPU."
+msgstr ""
+
+# FAQ page - question
+msgid "I've got weird input issues. What's going on?"
+msgstr ""
+
+# FAQ page
+msgid "If you are using a keyboard, and some keypresses don't register when pressing multiple keys simultaneously, this is not a bug in SuperTuxKart but a physical limitation of your keyboard: most keyboards only support a limited number of simultaneous key presses (for more detailed information, please check [here](https://en.wikipedia.org/wiki/Key_rollover))."
+msgstr ""
+
+# FAQ page
+msgid "Most keyboards work properly with SuperTuxKart's default key bindings, but custom key bindings may trigger this issue. The solution is to use a gaming input device (gamepad, or gaming keyboard), or to tweak your key bindings to find a configuration that your keyboard will be able to register simultaneously."
+msgstr ""
+
+# FAQ page
+msgid "If the game seems to register phantom inputs, behaving as if you pressed a key while you did not, try going in the options menu, on the input screen, and check if you have gamepads there. Try to disable all gamepads except the device you are using. Sometimes, bogus inputs can be received from gamepads or other similar devices that the OS sees as a gamepad."
+msgstr ""
+
+# FAQ page - question
+msgid "I found a bug, how should I contact you?"
+msgstr ""
+
+# FAQ page
+msgid "Check [SuperTuxKart bug tracker](https://github.com/supertuxkart/stk-code/issues) and search first to see if your problem has been reported already. If it has not been reported, open a new issue and provide all relevant information that could help developers track down the problem's cause."
+msgstr ""
+
+# FAQ page - question
+msgid "Where is the configuration stored?"
+msgstr ""
+
+# FAQ page
+msgid "All versions from SuperTuxKart 1.0 to SuperTuxKart 1.5 use the same configuration location. The precise location depends on your operating system and on the installation method:"
+msgstr ""
+
+# FAQ page
+msgid "On **Windows**: It is in `%APPDATA%/supertuxkart/config-0.10` (you can enter that in the Explorer and it will take you there)."
+msgstr ""
+
+# FAQ page
+msgid "On **Linux**: It is either in `$XDG_CONFIG_HOME/supertuxkart/config-0.10` (first choice), `~/.config/supertuxkart/config-0.10` (second choice) or in `~/.supertuxkart/config-0.10` (third choice)."
+msgstr ""
+
+# FAQ page
+msgid "On **macOS**: It is in `~/Library/Application Support/supertuxkart/config-0.10`. Note that this directory may be hidden."
+msgstr ""
+
+# FAQ page
+msgid "On **Android**: It is in `/storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/home/supertuxkart/config-0.10`."
+msgstr ""
+
+# FAQ page
+msgid "With **Snap**: It is in `~/snap/supertuxkart/current/.config/supertuxkart/config-0.10`."
+msgstr ""
+
+# FAQ page
+msgid "With **Flatpak**: It is in `~/.var/app/net.supertuxkart.SuperTuxKart/config/supertuxkart/config-0.10`."
+msgstr ""
+
+# FAQ page
+msgid "You can also watch the output in the terminal to see if there is a note on where the config files are stored or search for a file called 'config.xml'."
+msgstr ""
+
+# FAQ page - question
+msgid "What is the best input method for SuperTuxKart?"
+msgstr ""
+
+# FAQ page
+msgid "Keyboard, gamepad, and gaming wheel are all perfectly fine input methods to play SuperTuxKart and feel in control of your kart. Use whichever you are most comfortable with."
+msgstr ""
+
+# FAQ page
+msgid "While keyboard controls often have the reputation of being inadequate for racing games, this is not the case in SuperTuxKart. In fact, a majority of the game's best players play on keyboard."
+msgstr ""
+
+# FAQ page
+msgid "The touchscreen controls available on mobile are more challenging, because thumbs need to do most of the work. It is still possible to play very well, but there is an extra degree of difficulty."
+msgstr ""
+
+# FAQ page - question
+msgid "The Git version won't compile. What should I do?"
+msgstr ""
+
+# FAQ page
+msgid "This happens sometimes; the developers should be aware of that and it should be fixed soon. If [GitHub Actions](https://github.com/supertuxkart/stk-code/actions) says that the current Git version compiles, but it doesn't do so for you, then probably something is wrong with your compiler setup. (Check if you have all dependencies, re-run CMake, ...)"
+msgstr ""
+
+msgid "Screenshots"
+msgstr ""
+
+msgid "Trailer"
+msgstr ""
+
+msgid "Gameplay footage"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "SuperTuxKart Evolution (preview)"
+msgstr ""
+
+msgid "Freytra Peaks"
+msgstr ""
+
+msgid "Black Forest (Evolution)"
+msgstr ""
+
+msgid "Fort Magma (Evolution)"
+msgstr ""
+
+msgid "Shifting Sands (Evolution)"
+msgstr ""
+
+msgid "Drainage Dash"
+msgstr ""
+
+msgid "Alpine Valley"
+msgstr ""
+
+msgid "Modern Era: 1.0 to 1.5"
+msgstr ""
+
+msgid "XR-4R3N4 (soccer field)"
+msgstr ""
+
+msgid "Black Forest (egg hunt)"
+msgstr ""
+
+msgid "Oasis (soccer field)"
+msgstr ""
+
+msgid "Black Forest"
+msgstr ""
+
+msgid "Northern Resort"
+msgstr ""
+
+msgid "Candela City"
+msgstr ""
+
+msgid "Ancient Colosseum Labyrinth (arena)"
+msgstr ""
+
+msgid "Alien Signal (arena)"
+msgstr ""
+
+msgid "Las Dunas Soccer Stadium"
+msgstr ""
+
+msgid "Ravenbridge Mansion"
+msgstr ""
+
+msgid "Volcan Island"
+msgstr ""
+
+msgid "Antarctica: 0.9 to 0.9.3"
+msgstr ""
+
+msgid "Classic Era: 0.7 to 0.8.1"
+msgstr ""
+
+msgid "1.3 Trailer"
+msgstr ""
+
+msgid "Rising Recognition: 0.5 to 0.6.2"
+msgstr ""
+
+msgid "Early days: 0.0.0 to 0.4"
+msgstr ""
+
+msgid "Tux Tollway in the original TuxKart"
+msgstr ""
+
+msgid "The main menu of SuperTuxKart 0.0.0"
+msgstr ""
+
+msgid "The old Lighthouse track in SuperTuxKart 0.4"
+msgstr ""
+
+msgid "Amazonian Journey in SuperTuxKart 0.6"
+msgstr ""
+
+msgid "Tux Tollway in SuperTuxKart 0.6.1a"
+msgstr ""
+
+msgid "Hacienda in SuperTuxKart 0.7"
+msgstr ""
+
+msgid "The main menu UI from version 0.7.1b"
+msgstr ""
+
+msgid "Minigolf, a track added in SuperTuxKart 0.7.3"
+msgstr ""
+
+msgid "Tux flying above STK 0.8's overworld"
+msgstr ""
+
+msgid "Beagle drifting in Green Valley in SuperTuxKart 0.8"
+msgstr ""
+
+msgid "STK Enterprise, Xue, and the modern nitro cans in SuperTuxKart 0.8.1, where they all first appeared"
+msgstr ""
+
+msgid "Gran Paradiso Island, one of the two new tracks from SuperTuxKart 0.9"
+msgstr ""
+
+msgid "Carnaval del Cacao, a night-time version of Cocoa Temple first available as part of the gift package"
+msgstr ""
+
+msgid "Antediluvian Abysses, which became part of the base game with SuperTuxKart 0.9.2"
+msgstr ""
+
+msgid "A poster celebrating STK's Steam Greenlight campaign"
+msgstr ""
+
+msgid "1.0 offered a new dark theme, as well as a vertical tab layout"
+msgstr ""
+
+msgid "Black Forest in SuperTuxKart 1.0"
+msgstr ""
+
+msgid "Pumpkin Park was added to the base game in SuperTuxKart 1.1"
+msgstr ""
+
+msgid "Litspore Moor, one of many addons created during the 1.x era"
+msgstr ""
+
+msgid "XR-4R3N4, one of the three soccer fields added in SuperTuxKart 1.5"
+msgstr ""
+
+msgid "A preliminary version of Alpine Valley"
+msgstr ""
+
+msgid "Freytra Peaks, one of SuperTuxKart Evolution's new tracks"
+msgstr ""
+
 msgid "The next major release of SuperTuxKart, named SuperTuxKart Evolution is currently under development. Building upon the foundation laid by all those who made STK what it is today, **SuperTuxKart Evolution will be the biggest release in STK's history in terms of new content**: new tracks, new features, improved gameplay, enhanced graphics, and much more. An overview of our roadmap is [available here](https://blog.supertuxkart.net/2025/09/supertuxkart-evolution-roadmap.html)."
 msgstr ""
 
 msgid "As part of our efforts towards SuperTuxKart Evolution, the SuperTuxKart team will also improve communication with the community, with more frequent updates on our plans. A [new forum](https://forum.supertuxkart.net/) has been opened for people to talk about the game and ask us questions. We also want to make it easier for new contributors to join us on our journey."
 msgstr ""
 
-msgid "Additional information is available in our [STK Evolution FAQ](STK_Evolution_FAQ)."
+msgid "Additional information is available in our [STK Evolution FAQ](FAQ#supertuxkart-evolution)."
 msgstr ""
 
 msgid "Discover more..."
@@ -498,6 +1633,1140 @@ msgid "Prerequisites"
 msgstr ""
 
 msgid "You should read the following articles prior to following this tutorial:"
+msgstr ""
+
+msgid "A small slope over the bridge"
+msgstr ""
+
+msgid "A banked curve"
+msgstr ""
+
+msgid "A long slope"
+msgstr ""
+
+# News page - introduction
+msgid "**News about SuperTuxKart's development are posted on [our blog](https://blog.supertuxkart.net/)** for major announcements and in-depth articles, **as well as on [our patreon page](https://members.supertuxkart.net/)** for frequent small articles about the game's development."
+msgstr ""
+
+# News page - introduction
+msgid "You can also follow our [official YouTube channel](https://www.youtube.com/@SuperTuxKartOfficial?sub_confirmation=1) to be notified of new videos, or check out recent development activity on [GitHub](https://github.com/supertuxkart/stk-code/activity)."
+msgstr ""
+
+# News page - introduction
+msgid "You can find below excerpts and links to the latest news about SuperTuxKart."
+msgstr ""
+
+msgid "Latest Patreon Posts"
+msgstr ""
+
+# News page - patreon subsection
+msgid "Visit [our patreon page](https://members.supertuxkart.net/) to find older entries. They are available for everybody."
+msgstr ""
+
+msgid "When to measure performance?"
+msgstr ""
+
+msgid "There are a few situations that warrant measuring the game’s performance:"
+msgstr ""
+
+msgid "Trying to optimize your settings to get the best balance of visual quality and smoothness for your taste."
+msgstr ""
+
+msgid "Designing a track and [ensuring performance is good](Making_Tracks:_Optimization). Even if it's acceptable on your machine, think of players that might have weaker hardware."
+msgstr ""
+
+msgid "Testing the effect of code changes that are supposed to improve performance or that carry a significant computational load that may degrade performance."
+msgstr ""
+
+msgid "Or just [comparing your hardware’s performance with other users](https://forum.supertuxkart.net/thread-43.html)."
+msgstr ""
+
+msgid "Using the built-in FPS counter"
+msgstr ""
+
+msgid "The built-in FPS counter’s main advantage is how easy it is to activate it : just go in the UI options and toggle the relevant checkbox."
+msgstr ""
+
+msgid "A purple bar then shows up at the top of your screen. It contains three FPS values : minimum FPS, current FPS, maximum FPS. It also contains a few other informations relevant for track creator such as the polycount."
+msgstr ""
+
+msgid "However, this method suffers from several limitations: it is rater inaccurate, the current FPS value is a poor indicator as its doesn’t capture the effect of short spikes, and the values change between tests as the driving is different each time."
+msgstr ""
+
+msgid "This makes it impossible to reliably assess the effect of small performance changes (<15%) or the significance of small stutters, which play a major role in perceived smoothness."
+msgstr ""
+
+msgid "Using the built-in benchmark"
+msgstr ""
+
+msgid "The built-in performance test available starting with SuperTuxKart 1.5 is a good solution to those issues."
+msgstr ""
+
+msgid "**Because it uses a replay, it is highly repeatable and even small differences of a few percent can be identified.** The built-in replay uses the most demanding standard track, making it particularly useful for the optimization of graphics settings and the test of hardware performance."
+msgstr ""
+
+msgid "Note that your camera settings can also slightly influence the results as they change how much of the track the game has to render."
+msgstr ""
+
+msgid "Furthermore, the metrics displayed at the end of the test give their proper importance to short spikes in frame duration that degrade player experience. This is explained in more detail in [the blog post presenting the benchmark tool](https://blog.supertuxkart.net/2024/07/why-average-fps-and-1-low-fps-are.html)."
+msgstr ""
+
+msgid "To use it, simply go to the ‘Graphics’ options menu and click on the ‘Performance test of the current settings’ button."
+msgstr ""
+
+msgid "**Online multiplayer is noticeably more CPU-intensive than single player, so if you want to play online, you may want to include some extra margin.**"
+msgstr ""
+
+msgid "Adding a custom benchmark"
+msgstr ""
+
+msgid "Finally, the last method is to use a custom replay with the built-in performance test tool. This allows to test any track of your choice."
+msgstr ""
+
+msgid "This is especially useful for track creators, who obviously need to test their own track and not one already present in the game. **If you follow [the track optimization guide](Making_Tracks:_Optimization), this is a great way to measure the effects of your changes.**"
+msgstr ""
+
+msgid "The first step is to record a replay. Select time-trial mode, and after having selected your track simply check the appropriate checkbox to record your race."
+msgstr ""
+
+msgid "Depending on what system you are using, replay files can be found in one of the following folders:"
+msgstr ""
+
+msgid "On Windows:"
+msgstr ""
+
+msgid "On Linux:"
+msgstr ""
+
+msgid "On Mac OS X:"
+msgstr ""
+
+msgid "Once you have your replay, the next step is to tell the game to use it."
+msgstr ""
+
+msgid "With SuperTuxKart 1.5, the only way is to replace the contents of ‘benchmark_black_forest.replay’ located in the game’s ‘data/replay’ folder with the contents of your replay file, preferably after backing up the original file."
+msgstr ""
+
+msgid "With the latest development version, and, when they release, with SuperTuxKart 1.5.1 and SuperTuxKart Evolution, the game can detect multiple benchmark files."
+msgstr ""
+
+msgid "First add your file to the ‘data/replay’ folder, then open ‘stk_config.xml’ located in the ‘data’ folder and look for ‘benchmark’. Add another ‘file’ entry following the model of the one already present, with the name of your replay."
+msgstr ""
+
+msgid "Once this is done, simply start the game and go to the ‘Graphics’ option menu. Below the button to start the test, you will find a new UI element with which you can select which of the available benchmark files you want to use."
+msgstr ""
+
+msgid "From this point on, everything is the same as for the standard built-in benchmark."
+msgstr ""
+
+msgid "The limitation of this method is that it relies on a replay, so it is currently not possible to test battle arenas and soccer fields without extra tricks."
+msgstr ""
+
+# Posters page
+msgid "On this page you will find SuperTuxKart's official posters."
+msgstr ""
+
+# Posters page
+msgid "You can enlarge them by clicking on the picture, and you can download them by clicking the 'Download' button in the caption."
+msgstr ""
+
+# Posters page - section title
+msgid "Archived posters"
+msgstr ""
+
+# Posters page - a credit for one of the posters
+msgid "Credit: Mariam Lamrani"
+msgstr ""
+
+# Powerups page - main section title
+msgid "SuperTuxKart 1.5's Powerups"
+msgstr ""
+
+# Powerups page - powerup name
+msgid "Bubblegum"
+msgstr ""
+
+# Powerups page - powerup name
+msgid "Zipper"
+msgstr ""
+
+# Powerups page - powerup name
+msgid "Swatter"
+msgstr ""
+
+# Powerups page - powerup name
+msgid "Bowling Ball"
+msgstr ""
+
+# Powerups page - powerup name
+msgid "Cake"
+msgstr ""
+
+# Powerups page - powerup name
+msgid "Plunger"
+msgstr ""
+
+# Powerups page - powerup name
+msgid "Parachute"
+msgstr ""
+
+# Powerups page - powerup name
+msgid "Basket Ball"
+msgstr ""
+
+# Powerups page - powerup name
+msgid "Swapper"
+msgstr ""
+
+# Powerups page - subsection title
+msgid "Details"
+msgstr ""
+
+# Powerups page - subsection title
+msgid "Usage Tips"
+msgstr ""
+
+# Powerups page - subsection title
+msgid "Distribution"
+msgstr ""
+
+# Powerups page - table header
+msgid "Game Mode"
+msgstr ""
+
+# Powerups page - table header
+msgid "Available"
+msgstr ""
+
+# Powerups page - table entry
+msgid "Normal Race"
+msgstr ""
+
+# Powerups page - table entry
+msgid "Soccer"
+msgstr ""
+
+# Powerups page - table entry
+msgid "Follow-the-Leader"
+msgstr ""
+
+# Powerups page - table entry
+msgid "Egg Hunt"
+msgstr ""
+
+# Powerups page - table entry
+msgid "Battle"
+msgstr ""
+
+# Powerups page - availability of a powerup in a game mode
+msgid "Yes"
+msgstr ""
+
+# Powerups page - availability of a powerup in a game mode
+msgid "No"
+msgstr ""
+
+# Powerups page - introduction
+msgid "**SuperTuxKart 1.5 features 9 distinct powerups** with varied effects. They can be obtained by collecting the gift boxes located on the track."
+msgstr ""
+
+# Powerups page - introduction
+msgid "The distribution of powerups in SuperTuxKart depends on kart position and on the total number of karts, with karts further back getting better powerups to help them catch up. The strength of this catch up effect is moderate compared to typical kart-racing games. In modes without positions, all karts share the same distribution."
+msgstr ""
+
+# Powerups page - introduction
+msgid "If a new gift box is collected, the new randomly selected powerup replaces the previously held powerup, unless it happens to be a powerup of the same type, in which case the amount held increases (for example, a kart holding one cake and collecting another cake will hold two cakes)."
+msgstr ""
+
+# Powerups page - introduction
+msgid "When collecting a powerup with a gift box, **it is also possible to get some powerups in groups of 3**."
+msgstr ""
+
+# Powerups page - introduction
+msgid "**Several powerups produce a different effect or are launched in a different direction if used while looking towards the back.**"
+msgstr ""
+
+# Powerups page - introduction
+msgid "Finally, it should be noted that if a kart is hit by one of the exploding powerups (basket ball, bowling ball, or cake), it will receive a temporary immunity lasting 7 seconds, protecting against all attacking powerups. This is meant to limit situations where a kart is hit again while vulnerable because of a previous attack."
+msgstr ""
+
+# Powerups page
+msgid "The protective gum shield lasts up to 10 seconds. It protects from all threats except basket-ball squashing, but it is destroyed in the process. The shield also allows to safely drive over gums on the ground."
+msgstr ""
+
+# Powerups page
+msgid "If a new gum shield is used while one is already active, the duration of the current shield is extended by another 10 seconds."
+msgstr ""
+
+# Powerups page
+msgid "When the gum shield is about to expire, it starts flashing. As it expires, a gum is dropped on the ground, with the same effects as the one that can be dropped by using it towards the back."
+msgstr ""
+
+# Powerups page
+msgid "Gums laying on the ground are fairly wide and slow down massively karts that drive on them. Gums on the ground disappear after a kart drives on them."
+msgstr ""
+
+# Powerups page
+msgid "Most of the time the shield is the better choice, but directly dropping the gum on the ground is useful in a few situations:"
+msgstr ""
+
+# Powerups page
+msgid "To block a narrow path."
+msgstr ""
+
+# Powerups page
+msgid "To lay a trap in the location of a nitro can. Big nitro cans work especially well for such traps, as they are very tempting to get and help partially conceal the gum on the ground. Even if your rivals avoid your trap, this can still make them lose time by denying them nitro. Just avoid driving on your own trap in a later lap!"
+msgstr ""
+
+# Powerups page
+msgid "If a rival kart is closely following you. Looking back a little bit before using the powerup can be a good idea to ensure the other kart won't just drive around it."
+msgstr ""
+
+# Powerups page
+msgid "Use the shield immediately if you are threatened by other karts or are slowed down by penalties such as parachutes. If there is no immediate threat, delay the shield activation, but don't forget to activate it before taking a new gift box."
+msgstr ""
+
+# Powerups page
+msgid "If you have a bomb, it can be a good idea to delay the use of the gum shield until the bomb's timer enters the red zone or until you are about to get a new powerup from a gift box: you may have an opportunity to pass the bomb to another kart, or you may receive a parachute from a kart behind you. In this last case, the parachute will remove the bomb and keeping the bubblegum allows you to get rid of the parachute by activating the shield."
+msgstr ""
+
+# Powerups page
+msgid "Finally, if you get a group of 3, you should use one immediately as a shield for safety, as the opportunity cost is very low. With the remaining two gums, you can decide if it's better to lay out traps on the road for your rivals or to refresh your shield before the next gift box."
+msgstr ""
+
+# Powerups page
+msgid "The bubblegum is relatively common for all positions in the race. It is most common for karts in bad positions."
+msgstr ""
+
+# Powerups page
+msgid "The karts that are furthest behind can also obtain the bubblegum in groups of 3."
+msgstr ""
+
+# Powerups page
+msgid "The bubblegum is SuperTuxKart's main defensive powerup. Its two different usage modes give it additional flexibility."
+msgstr ""
+
+# Powerups page
+msgid "When used normally, it activates a defensive gum shield protecting the kart. When used towards the back, it drops a gum on the ground that will slow any kart driving on it."
+msgstr ""
+
+# Powerups page
+msgid "The zipper gives an immediate speed boost of 4.5 and a max speed increase of 15 (equivalent to 60% of the base max speed in SuperTux difficulty), lasting for 3.5 seconds with a fade-out time of 1 second."
+msgstr ""
+
+# Powerups page
+msgid "It also gives an engine boost of 250 (equivalent to 26% of a heavy kart's base engine power in SuperTux difficulty), increasing acceleration to help take advantage of the increased max speed."
+msgstr ""
+
+# Powerups page
+msgid "The start boost and ground zippers also provide speed boosts of the 'zipper' type: they do not stack up, only the latest one is active."
+msgstr ""
+
+# Powerups page
+msgid "On a surface level, the zipper is very simple: use it and go faster. However, there are several mistakes that can reduce its usefulness."
+msgstr ""
+
+# Powerups page
+msgid "**The first mistake to avoid is using the zipper when the extra speed would make the kart too difficult to control**, for example before tight curves or an area with hazards. What exactly qualifies as a spot where it would make the kart too difficult to control depends on the player's skill level, but it is much better to wait for a more suitable area (such as a long straight or gentle curve) than to crash."
+msgstr ""
+
+msgid "**If a gift box is coming soon, it often makes sense to avoid the gift box entirely to keep your zipper** if you cannot use it safely before the box, as you are unlikely to find a better powerup in there. If you are in the last positions, taking the gift box is more of a gamble as you may get an additional zipper."
+msgstr ""
+
+# Powerups page
+msgid "**Another common mistake is using multiple zippers in close succession or too close from a ground zipper.** While the instant speed boosts compound (up to the increased max speed), the overall boost duration is shorter than otherwise possible. A rapid speed change can also make it more difficult to control the kart."
+msgstr ""
+
+# Powerups page
+msgid "By using additional zippers only when the effect of a previous zipper or ground zipper starts fading out, the time spent with extra speed can be greatly increased"
+msgstr ""
+
+# Powerups page
+msgid "Finally, to make the most of a zipper's increased max speed, you need to accelerate as much as possible. Drift bonuses provide a small instant speed increase, and nitro multiplies engine power: coordinating nitro and drift timings with your zipper saves time."
+msgstr ""
+
+# Powerups page
+msgid "Note that drifting and nitro provide their own increase to max speed. Therefore, ideally, you should already have your speed increased from drifting and nitro when you activate the zipper, with additional drifts and nitro usage during the zipper's boost period."
+msgstr ""
+
+# Powerups page
+msgid "The zipper can be obtained in any position, but it is much more common for bad positions than for good positions. It is the second most common powerup overall, and the most common for karts in bad positions."
+msgstr ""
+
+# Powerups page
+msgid "The karts that are furthest behind can also obtain the zippers in groups of 3."
+msgstr ""
+
+# Powerups page
+msgid "The zipper gives a very powerful speed increase, helping karts in the back to catch up."
+msgstr ""
+
+# Powerups page
+msgid "The bonus is made of three parts: an instantaneous boost, a huge increase to the kart's maximum speed, and a significant boost to acceleration."
+msgstr ""
+
+# Powerups page
+msgid "**If the swatter is activated while an attachment is active, it will remove the existing attachment.** If the removed attachment is a bomb, the swatter will be used and removed, in other cases the swatter will remain fully active."
+msgstr ""
+
+# Powerups page
+msgid "The swatter remains active for 10 seconds. During this period, the swatter arm rotates towards the closest kart, and squashes it if it gets close enough (provided the target kart is not invulnerable). Squashed karts lose 50% of their speed for 5 seconds."
+msgstr ""
+
+# Powerups page
+msgid "In racing modes, the swatter can squash multiple targets before it expires. In Battle and Soccer, the swatter is removed after squashing one target."
+msgstr ""
+
+# Powerups page
+msgid "The swatter is also removed by events that give the kart a new attachment (using a gum shield, hitting a banana, etc.)."
+msgstr ""
+
+# Powerups page
+msgid "The swatter is a powerful powerup, but proper timing and tactics are important to make the most out of it."
+msgstr ""
+
+# Powerups page
+msgid "**When the swatter is active, it is very effective at preventing other karts from overtaking.** Although it is a short-range weapon, it still covers a significant chunk of the track's width and proper positioning makes it difficult for other karts to safely go around."
+msgstr ""
+
+# Powerups page
+msgid "The swatter needs 0.5s after use before it is ready to squash targets, and it also requires a bit of time to aim and attack. It is therefore better to anticipate than to use it at the last second."
+msgstr ""
+
+# Powerups page
+msgid "If a rival kart is close behind you, slowing down can be an effective tactic: you might lose a bit of time, but you force the other kart to either brake or be squashed and lose even more time. In this situation, it is important to consider the general race situation to see if losing a bit of time compared to most karts is worth gaining a lot of time compared to the kart close behind."
+msgstr ""
+
+# Powerups page
+msgid "If your kart is already slowed down by a parachute, using the swatter immediately is usually the best choice."
+msgstr ""
+
+# Powerups page
+msgid "If your kart has a bomb, it is often a good idea to delay the use of the swatter until the bomb's timer enters the red zone or until you are about to get a new powerup from a gift box: you may have an opportunity to pass the bomb to another kart, or you may receive a parachute from a kart behind you. In this last case, the parachute will remove the bomb and keeping the swatter allows you to get rid of the parachute."
+msgstr ""
+
+# Powerups page
+msgid "If there is no rival kart close by or if you already have a bubble gum shield active, it is often best to delay the use of the swatter. This allows to keep it active longer to threaten other karts when you get closer to them, but more importantly it keeps it available to remove potential parachutes and bombs."
+msgstr ""
+
+# Powerups page
+msgid "The swatter is available for most positions in the race, but is more common in better positions, where it is particularly appreciated for its help against the threat of parachutes."
+msgstr ""
+
+# Powerups page
+msgid "The swatter is a versatile powerup, combining powerful short-range attacks and significant utility."
+msgstr ""
+
+# Powerups page
+msgid "When active, the swatter will flatten any kart that drives too close, slowing them down significantly. It can also be used to remove harmful attachments such as bombs and parachutes."
+msgstr ""
+
+# Powerups page
+msgid "The bowling ball triggers a standard explosion (1.5 seconds) if it touches a kart. It can rebound on walls and other obstacles, which can sometimes be taken advantage of."
+msgstr ""
+
+# Powerups page
+msgid "If two bowling balls touch each other, they will both disappear."
+msgstr ""
+
+# Powerups page
+msgid "If the bowling ball fails to hit a target, it expires after 20 seconds."
+msgstr ""
+
+# Powerups page
+msgid "There are some quirks in how the bowling ball's speed is computed:"
+msgstr ""
+
+# Powerups page
+msgid "At typical kart speeds, when thrown forward, the bowling ball will move (relatively to the track) at twice the kart's speed plus 8, but it has a minimum speed of 32 (about the speed of a heavy kart using nitro in SuperTux difficulty)."
+msgstr ""
+
+# Powerups page
+msgid "When thrown backward, it moves at a speed of 16 relatively to the track, in the direction opposite to which the kart is pointing. In this case, the bowling ball's speed is completely independent of the kart's speed."
+msgstr ""
+
+# Powerups page
+msgid "The bowling ball slows down over time. Its path and speed are influenced by changes in elevation, as it will naturally tend to roll down slopes."
+msgstr ""
+
+# Powerups page
+msgid "The kart firing the bowling ball is immune to it for the first two seconds, however, past this delay, the kart that fired the bowling ball will also exploed touching it."
+msgstr ""
+
+# Powerups page
+msgid "The bowling ball requires careful aiming to maximize your odds of touching your target, by aligning the direction your kart is going towards with the direction you want to fire the ball towards."
+msgstr ""
+
+# Powerups page
+msgid "As the bowling ball is not very fast, anticipating what your target is likely to do and firing the ball from a closer distance increase your success rate."
+msgstr ""
+
+# Powerups page
+msgid "If you have three balls, you can be a little less accurate with your aiming: if you fire your balls in relatively close succession in a line that the target kart will have to cross (to take a curve for example), you have good chances to score a hit."
+msgstr ""
+
+# Powerups page
+msgid "**If you don't have any rival kart nearby, it is often a good idea to fire the ball towards the back**, as other karts arriving a few seconds later will still have to dodge them."
+msgstr ""
+
+# Powerups page
+msgid "The bowling ball can also be used to defend against basket balls by firing it backwards, however getting the timing right is very difficult, so it is rarely successful."
+msgstr ""
+
+# Powerups page
+msgid "Finally, avoid mindlessly firing bowling balls when there is no target, as this sometimes leads to the ball rebounding on an obstacle towards your path and exploding you."
+msgstr ""
+
+# Powerups page
+msgid "The bowling ball is also commonly used in Soccer mode to push the puck or the ball from a distance."
+msgstr ""
+
+# Powerups page
+msgid "The bowling ball is SuperTuxKart's most common powerup. It is found in all positions, but is more common for karts in good positions."
+msgstr ""
+
+# Powerups page
+msgid "The bowling ball can be found in groups of 3. This is possible in most positions, but happens much more frequently for karts in bad positions."
+msgstr ""
+
+msgid "The bowling ball is SuperTuxKart's most common powerup."
+msgstr ""
+
+# Powerups page
+msgid "A medium-range attacking powerup, it sends a ball rolling in a straight line, which will explode if it touches a kart. It can be used both forward and backward."
+msgstr ""
+
+# Powerups page
+msgid "**The cake is a medium-range attacking powerup and requires line-of-sight with the target to work.** If there is no adequate target within the max aiming distance of 90, it is thrown straight ahead without aiming at anything."
+msgstr ""
+
+# Powerups page
+msgid "**Although the cake's automatic aiming makes it quite dangerous, it is possible for it to miss sometimes**, particularly if the target is farther away and changes speed or direction, as the cake's trajectory does not change after it has been thrown."
+msgstr ""
+
+# Powerups page
+msgid "There are some peculiarities with regard to the speed at which the cake is thrown:"
+msgstr ""
+
+# Powerups page
+msgid "The cake's speed is applied relatively to the track instead of the kart. This unintuitive quirk makes cakes thrown backwards near unavoidable, as the target kart is driving towards the cake (rather than away from it when the cake is thrown forward)."
+msgstr ""
+
+# Powerups page
+msgid "The cake's base speed is multiplied by a ratio based on the kart's speed, then an extra 16 speed is added. See the table below for details (30 is the speed of a medium kart using nitro in SuperTux difficulty). As a consequence, cakes thrown by karts that don't move or move slowly nearly always miss."
+msgstr ""
+
+# Powerups page - table header
+msgid "Kart speed"
+msgstr ""
+
+# Powerups page - table header
+msgid "Cake speed"
+msgstr ""
+
+# Powerups page
+msgid "The area-of-effect around the explosion within which other karts are hit depends on kart class: light karts are vulnerable at a distance of up to 6, medium karts at a distance of up to 4.8 and heavy karts at a distance of up to 3.6."
+msgstr ""
+
+# Powerups page
+msgid "Direct hits by the cake cause a standard explosion (1.5 seconds), while the duration of the explosion animation is halved for indirect hits. In both cases, much time is also lost because the target kart needs to accelerate back to a high speed."
+msgstr ""
+
+# Powerups page
+msgid "The cake's automatic aiming makes it easier to use than bowling balls, but some attention can still improve your success rate."
+msgstr ""
+
+# Powerups page
+msgid "First, make sure that the kart you want to target is not currently invulnerable or protected by a shield."
+msgstr ""
+
+# Powerups page
+msgid "Second, avoid using the cake when your kart is moving slowly. Due to the peculiar way the cake's speed is computed, your cake will move slowly and is unlikely to hit its target."
+msgstr ""
+
+# Powerups page
+msgid "Finally, try to get closer to your target before firing. This reduces the likelihood that the other kart will change its trajectory or speed quickly enough to dodge your attack."
+msgstr ""
+
+# Powerups page
+msgid "The cake can also be used as a defensive tool against basket balls by throwing it backwards when one gets close, after carefully orienting your kart so that the basket ball is right behind you. The natural upwards curve of the cake's trajectory makes it the most effective of the three powerups that can be used for this purpose."
+msgstr ""
+
+# Powerups page
+msgid "The cake is somewhat common for karts in relatively good positions, but rare for karts in bad positions or really near first place."
+msgstr ""
+
+# Powerups page
+msgid "The cake is SuperTuxKart's most feared attacking powerup. It can be used towards the front as well as towards the back."
+msgstr ""
+
+# Powerups page
+msgid "Unlike the bowling ball, the cake automatically aims at its target. It explodes upon contact, with an area-of-effect that also hit other karts too close to the explosion."
+msgstr ""
+
+# Powerups page
+msgid "When used towards the front, the plunger will try to target a kart if one is close enough. Otherwise, it will attach to the first obstacle it touches."
+msgstr ""
+
+# Powerups page
+msgid "The rubber-band attached by the plunger gives a maximum speed increase of 7, however it gives no engine boost and the pulling force is modest, so accelerating to the full speed it offers is unlikely during the 1 second the band stays active."
+msgstr ""
+
+# Powerups page
+msgid "While the rubber band has a relatively short duration, the fade-out time of its max-speed increase lasts 3 seconds, which is quite long and contributes significantly to the time savings provided by the plunger."
+msgstr ""
+
+# Powerups page
+msgid "If attached to another kart, the target kart will be slowed down by a pulling force equivalent to the one accelerating the plunger's user."
+msgstr ""
+
+# Powerups page
+msgid "If attached to terrain, the rubber-band will snap if the kart gets closer than a distance of 10 to the attachment point."
+msgstr ""
+
+# Powerups page
+msgid "When used towards the back, it partially covers the player's view with a large dark red texture with Tux in the middle, for a duration of 4.5 seconds. This makes it much more difficult to drive well and avoid hazards."
+msgstr ""
+
+# Powerups page
+msgid "Of course, AI karts don't use a screen to drive, instead they slow down and stop avoiding hazards, with the slowdown depending on difficulty."
+msgstr ""
+
+# Powerups page
+msgid "The most useful use of the plunger is firing it forward towards another kart, if one is close enough. The aiming is automatic, and the combination of gained speed for your kart and lost speed for the rival kart is appreciable."
+msgstr ""
+
+# Powerups page
+msgid "If a kart follows you at a short to moderate distance, firing the plunger backwards to slow it down and potentially cause it to crash is also useful."
+msgstr ""
+
+# Powerups page
+msgid "If neither of those is possible, the best use is to fire it on the terrain surrounding the track to get some extra speed. It is unfortunately not always obvious if the plunger will succeed attaching to terrain or not."
+msgstr ""
+
+# Powerups page
+msgid "Finally, the plunger can be used to defend against basket balls by firing it backwards. This has to be done during the final approach of the basket ball and timing is important."
+msgstr ""
+
+# Powerups page
+msgid "As the plunger is fired at some height above the ground, it is easier to be successful than with the bowling ball, although a bit more difficult than with the cake."
+msgstr ""
+
+# Powerups page
+msgid "The plunger is a fairly common powerup. It is available for most positions in the race, but as it is a weaker powerup, it is much more common in good positions than in bad positions."
+msgstr ""
+
+# Powerups page
+msgid "It is also possible for karts in bad positions to get a set of 3 plungers, although that's fairly rare."
+msgstr ""
+
+# Powerups page
+msgid "The plunger is a relatively common powerup with two very different uses."
+msgstr ""
+
+# Powerups page
+msgid "Thrown forward, it tries to grab on another kart or on terrain to pull its user forward, giving it some extra speed. When used towards the back, it partially covers the screen of the targeted kart for a few seconds."
+msgstr ""
+
+# Powerups page
+msgid "Since SuperTuxKart 1.0, kart engine power has to overcome a pseudo-friction that depends on speed. Parachutes considerably increase this friction, slowing down karts significantly over time and limiting their maximum speed."
+msgstr ""
+
+# Powerups page
+msgid "The duration a parachute attached by the parachute powerups remains depends on the position of the receiving kart: it stays longest for the kart in first place (3.75 seconds), and is removed quicker the worse the position of the receiving kart at the time it was targeted (down to 2.5 seconds for the last targeted kart)."
+msgstr ""
+
+# Powerups page
+msgid "However, just as with parachutes received from bananas, it is possible for the targeted karts to drop the parachute sooner by braking sufficiently."
+msgstr ""
+
+# Powerups page
+msgid "Karts that benefit from a temporary invulnerability do not receive a parachute from the parachute powerup."
+msgstr ""
+
+# Powerups page
+msgid "Using the parachute immediately is generally fine, and you should always use it before taking a new gift box."
+msgstr ""
+
+# Powerups page
+msgid "However, it can sometimes be worth delaying its use for a few seconds, for example if you notice that a rival's bomb is about to explode (the parachute would remove the bomb), that a rival's shield is about to expire, or that a rival's temporary immunity is about to end."
+msgstr ""
+
+# Powerups page
+msgid "The parachute is only available to karts in bad positions, being most common for the kart in last place."
+msgstr ""
+
+# Powerups page
+msgid "As a global item, the parachute is fairly rare. Races with many karts and races with few karts have a similar global occurrence."
+msgstr ""
+
+# Powerups page
+msgid "The parachute powerup attaches a parachute to all karts in front of the user. Shielded karts are protected, but lose their shield."
+msgstr ""
+
+# Powerups page
+msgid "This powerful powerup's main purpose is to help reduce the gap between karts in the front and karts in the back, but counterplay is available to limit lost time."
+msgstr ""
+
+# Powerups page
+msgid "**The basket ball's speed is dynamic, depending on its distance to the first kart.** When far away it goes faster to catch up in a reasonable time, when closer it slows down to leave defensive opportunities."
+msgstr ""
+
+# Powerups page
+msgid "Like the cake, it has an area-of-effect that hits other karts too close to the explosion. Please refer back to the cake section for details on the area-of-effect's size and the explosion's duration."
+msgstr ""
+
+# Powerups page
+msgid "Below a distance of 50 (about the same distance as between Hacienda's starting line and the arch to enter its courtyard, taking about 2 seconds to cover without speed boosts) it goes at a speed of 9 above a medium kart's max speed without boost in the current difficulty. This is about the same speed as a medium kart with active nitro and a yellow drift boost."
+msgstr ""
+
+# Powerups page
+msgid "Above a distance of 50, the basket ball speeds increases, up to a speed of 29 above a medium kart's max speed at distances of 250 or greater (a distance of 250 takes about 10 seconds to cover for a kart in SuperTux without speed boosts)."
+msgstr ""
+
+# Powerups page
+msgid "The basket ball normally follows the middle of the road, but when it gets close enough to its target, it will track it and follow it off-road if necessary."
+msgstr ""
+
+# Powerups page
+msgid "The bouncing frequency of the basket ball increases significantly when it is closer than a distance of 50."
+msgstr ""
+
+# Powerups page
+msgid "The basket ball can explode prematurely in several situations:"
+msgstr ""
+
+# Powerups page
+msgid "If it touches another item with physics. This can be a moveable item from the track (such as the balls on Gran Paradiso's beach), but it can also be a bowling ball, a cake, or a plunger."
+msgstr ""
+
+# Powerups page
+msgid "If it unexpectedly collides with terrain outside of its normal bouncing. The basket ball has some logic to detect tunnels and reduce the height of its bounces if needed, but it doesn't detect all possible obstacles."
+msgstr ""
+
+# Powerups page
+msgid "If there is a long and deep gap where the basket ball cannot bounce."
+msgstr ""
+
+# Powerups page
+msgid "If the basket ball happens to touch a kart different than its target during one of its bounces, it will squash it (unless it is invulnerable). The bubblegum shield doesn't protect against this squashing."
+msgstr ""
+
+# Powerups page
+msgid "Like with the swatter, the flattened kart loses 50% of its speed. The duration is much shorter however, at 2 seconds instead of 5 seconds."
+msgstr ""
+
+# Powerups page
+msgid "Unlike most powerups, using the basket ball well is fairly simple: fire and forget."
+msgstr ""
+
+# Powerups page
+msgid "In some tracks, experienced players will want to wait having passed specific obstacles before using it: the basket ball cannot safely cross some of them (for example, STK Enterprise's jump)."
+msgstr ""
+
+# Powerups page
+msgid "**There are some ways to defend against the basket ball for the kart in first place**: driving fast with nitro and drifting will delay the attack, while a bubblegum shield can be used to protect against the explosion. It is also possible to make the ball explode by touching it with a powerup thrown backwards, but this is a difficult technique that requires precise timing and aiming."
+msgstr ""
+
+# Powerups page
+msgid "The basket ball is only available to karts in middle to bad positions. It becomes rarer as the parachute becomes more common."
+msgstr ""
+
+# Powerups page
+msgid "As a global item, the basket ball is fairly rare. Races with many karts and races with few karts have a similar global occurrence."
+msgstr ""
+
+# Powerups page
+msgid "The basket ball is SuperTuxKart's way of counterbalancing the advantage the first kart gets by not having anyone in front to take away positive items or attack it."
+msgstr ""
+
+# Powerups page
+msgid "It bounces on the track towards its target at a fast speed. When it reaches the first kart, it explodes. It can also squash other karts on its path."
+msgstr ""
+
+# Powerups page
+msgid "The swapper's effect activates immediately upon use, swapping items with their counterparts: gift boxes with bananas, nitro cans with ground gums. After 5 seconds, items revert to their normal form."
+msgstr ""
+
+# Powerups page
+msgid "If a second swapper is used while one is still active, items switch back to their normal form."
+msgstr ""
+
+# Powerups page
+msgid "Both small nitro cans and big nitro cans are transformed into ground gums, but ground gums always become big nitro cans when the swapper is activated. Ground gums swapped into nitro cans disappear after being collected, just as if someone had driven on their normal form."
+msgstr ""
+
+# Powerups page
+msgid "**Unlike other powerups, using the swapper without thinking can be worse than not using it at all**, as you may be transforming positive items (gift boxes and nitro cans) that you were in position to take into threats you have to avoid."
+msgstr ""
+
+# Powerups page
+msgid "The first main tactic with the swapper is to use it to transform negative items into positive ones. The biggest advantage is obtained when ground gums can be transformed into big nitro cans, but it is still worthwhile to transform bananas into gift boxes, as you know exactly what is happening while other karts have to deal with the chaos of the change. There are also usually much more positive items than harmful items around tracks."
+msgstr ""
+
+# Powerups page
+msgid "The second main tactic is to pay attention to when a rival kart is about to take a positive item (by watching it directly or on the minimap) and to activate the swapper right when it's too late for the other kart to react. This is slightly more advanced, as it takes some attention away from driving, but it can be extremely effective when done right."
+msgstr ""
+
+# Powerups page
+msgid "Finally, experienced players will often notice when another kart is holding a swapper. In high-level races, this can be used for mindgames: by holding the swapper without using it, other karts are forced to guess if they should take the positive items on their path or if they should avoid them to avoid driving on a gum or into a banana. The less predictable the timing of the swapper use, the more effective it becomes in this situation."
+msgstr ""
+
+# Powerups page
+msgid "The swapper is more common for karts in good positions and rarer for karts in bad positions."
+msgstr ""
+
+# Powerups page
+msgid "As a global powerup that affects all karts, the swapper is fairly rare. Races with many karts and races with few karts have a similar global occurrence."
+msgstr ""
+
+# Powerups page - DO NOT INCLUDE THE 'SWITCH' MENTION IN YOUR TRANSLATION IF NOT RELEVANT TO YOUR TARGET LANGUAGE
+msgid "The swapper (also known as the switch) is a global powerup which lies outside traditional powerup categories."
+msgstr ""
+
+# Powerups page
+msgid "It temporarily swaps all gift boxes with bananas, all nitro cans with ground gums, and vice-versa: bananas become gift boxes and ground gums become nitro cans."
+msgstr ""
+
+# Powerups page
+msgid "The set of available powerups, as well as their effects and distribution, is identical across all SuperTuxKart 1.x versions, from SuperTuxKart 1.0 to SuperTuxKart 1.5.1, with one tiny exception: prior to SuperTuxKart 1.4, the parachute powerup removed shields from all other karts, instead of only the shields of karts in a better position than the parachute powerup's user."
+msgstr ""
+
+msgid "Powerup distribution charts"
+msgstr ""
+
+# Powerups page - main section title
+msgid "Powerups in older SuperTuxKart versions"
+msgstr ""
+
+# Powerups page - subsection title
+msgid "Changes brought by SuperTuxKart 1.0"
+msgstr ""
+
+# Powerups page - subsection title
+msgid "SuperTuxKart 0.9.3"
+msgstr ""
+
+# Powerups page - past versions
+msgid "The set of available powerups did not change for SuperTuxKart 1.0, however the effect of some powerups was adjusted, and powerup distribution was massively improved."
+msgstr ""
+
+# Powerups page - past versions
+msgid "Here is a list of powerup-related changes present in 1.0:"
+msgstr ""
+
+# Powerups page - past versions
+msgid "Major improvements to powerup distribution with unique weights for each position in the race. A good overview is available in a [blog post covering gameplay changes for 1.0](https://blog.supertuxkart.net/2019/03/bringing-balance-to-karts.html). The main points beyond per-position weights are: different weights based on the total number of karts in a race, a reduction in the frequency of cakes, an increase in bubblegum and swatter availability, more common zippers and rarer plungers in bad positions, a complete revision of the handling of global items, and separate weights for Follow-the-Leader mode."
+msgstr ""
+
+# Powerups page - past versions
+msgid "Dynamic speeds for basket balls based on their distance to the first kart, making them much more likely to catch up to the first kart while still leaving room for defensive maneuvers."
+msgstr ""
+
+# Powerups page - past versions
+msgid "A complete rework of how the parachute penalty affects karts, with a pseudo-friction that scales with speed, as well as tweaks to some parachute-related parameters."
+msgstr ""
+
+# Powerups page - past versions
+msgid "A reduction of explosion duration, reducing the time loss caused by cakes, bowling balls and basket balls."
+msgstr ""
+
+# Powerups page - past versions
+msgid "The introduction of an early time-out making cakes and basket balls unavailable during the first 15 seconds of a race."
+msgstr ""
+
+# Powerups page - past versions
+msgid "Use of Soccer powerup weights for Egg Hunt instead of standard weights, to ensure powerup randomness doesn't matter when trying to get the best time."
+msgstr ""
+
+# Powerups page - past versions
+msgid "SuperTuxKart 0.9.3 made the duration of parachutes attached by the parachute powerup depend on the kart position, lasting longer for karts in good positions compared to karts in bad positions."
+msgstr ""
+
+# Powerups page - past versions
+msgid "The parachute powerup was also affected by other general changes to parachutes, making parachutes less penalizing for karts driving slowly and more penalizing for karts going fast, as well as making removal by braking a little more difficult."
+msgstr ""
+
+# Projects page
+msgid "Due to the libre and open source nature of SuperTuxKart, the game is used in various research project, studies or simply prototypes made by fans."
+msgstr ""
+
+# Projects page
+msgid "On this page, you can discover various projects that have been done with our game."
+msgstr ""
+
+# Projects page
+msgid "If you have a project using SuperTuxKart not listed here, or if you want to use the game in your own project, you can contact us."
+msgstr ""
+
+# Projects page - section title
+msgid "Driver Development"
+msgstr ""
+
+# Projects page - section title
+msgid "Tyr"
+msgstr ""
+
+# Projects page
+msgid "SuperTuxKart was used as a target for the development of Tyr, a driver for the Mali GPUs found in ARM SoCs, porting the C code of Panthor to Rust."
+msgstr ""
+
+# Projects page
+msgid "In November 2025, Tyr's ability to render SuperTuxKart races at low settings with reasonable performance for the tested SoC was showcased in Collabora's [blog post about Tyr's progress](https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html) as well as through [a video](https://www.youtube.com/watch?v=wX9cTGenBDk) showing STK played with the new driver."
+msgstr ""
+
+# Projects page - section title
+msgid "Technical Demonstrations"
+msgstr ""
+
+# Projects page - section title
+msgid "A Mercedes as SuperTuxKart Controller"
+msgstr ""
+
+# Projects page
+msgid "When it comes to driving a car in the real world, the big touchscreens that have become commonplace in modern cars are often distracting. And a real car is a tad expensive to use as a gaming device."
+msgstr ""
+
+# Projects page
+msgid "Nonetheless, when Mercedes-Benz showcased SuperTuxKart being played with a car's controls at the 2019 Mobile World Congress, [journalists were wowed](https://www.theverge.com/2019/2/27/18243256/mario-kart-mercedes-benz-daimler-driving-game-mwc-2019)."
+msgstr ""
+
+# Projects page
+msgid "Many outlets referred to 'Mario Kart' in their reporting, probably because any kart game is 'Mario Kart' to some, but it's SuperTuxKart which powered this impressive demo. And perhaps this carelessness in naming could be seen as a testament to SuperTuxKart quality."
+msgstr ""
+
+# Projects page
+msgid "STK's open nature further allowed Mercedes to synchronize the car's lighting, air conditioning and even seatbelt with in-game events, making the experience exceptional."
+msgstr ""
+
+# Projects page - section title
+msgid "Cybersecurity Researchers Use a Car to Play at SuperTuxKart"
+msgstr ""
+
+# Projects page
+msgid "The Controller Area Network (CAN) bus is used by modern cars to pass on data between different parts of the vehicle."
+msgstr ""
+
+# Projects page
+msgid "Intercepting and injecting messages on the CAN bus can allow hacking a car, for good or bad purposes. SuperTuxKart was used at least twice by cybersecurity researchers to demonstrate the interception of messages on the CAN bus:"
+msgstr ""
+
+# Projects page
+msgid "In 2024, researchers from Darmstatd University showcased [in a DEFCON presentation](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Timm%20Lauser%20Jannis%20Hamborg%20-%20Redefining%20V2G%20-%20How%20to%20use%20your%20vehicle%20as%20a%20game%20controller.pdf) the use of intercepted CAN data from a Volkswagen ID.3 to play at SuperTuxKart using the car as a controller, using a separate screen placed in front of the car to display the game."
+msgstr ""
+
+# Projects page
+msgid "In 2025, security researchers from Pen Test Partners [made a similar demo](https://www.pentestpartners.com/security-blog/how-we-turned-a-real-car-into-a-mario-kart-controller-by-intercepting-can-data/) on a 2016 Renault Clio."
+msgstr ""
+
+msgid "A Volkswagen ID.3 used as a SuperTuxKart gaming wheel"
+msgstr ""
+
+# Projects page - section title
+msgid "Microsoft IllumiRoom Demo"
+msgstr ""
+
+# Projects page
+msgid "[IllumiRoom](https://www.microsoft.com/en-us/research/project/illumiroom-peripheral-projected-illusions-for-interactive-experiences/) was a proof-of-concept system from Microsoft Research."
+msgstr ""
+
+# Projects page
+msgid "It used projected visualizations around a television screen to enhance the traditional living room entertainment experience."
+msgstr ""
+
+# Projects page
+msgid "Showcased in 2013, it featured SuperTuxKart 0.8 in [its demo video](https://www.youtube.com/watch?v=re1EatGRV0w&t=49s), with white circles projected on the wall representing falling snow."
+msgstr ""
+
+msgid "Illumiroom with SuperTuxKart 0.8 on the TV"
+msgstr ""
+
+# Projects page - section title
+msgid "Virtual Joystick using Kinect"
+msgstr ""
+
+# Projects page
+msgid "The [Gesture Therapy platform](https://pdfs.semanticscholar.org/b3f1/36317f77d67d269d09c2005254fe52baae49.pdf) is a system for upper limb rehabilitation developed by a Mexican team."
+msgstr ""
+
+# Projects page
+msgid "In 2013, to showcase the capabilities of the Virtual Joystick system it uses, they released a [demo video](https://www.youtube.com/watch?v=8vSfHG7BHUk) showing the acceleration and steering of a kart in SuperTuxKart 0.8 being controlled through the movements of an arm."
+msgstr ""
+
+# Projects page - section title
+msgid "Academic Research and Teaching"
+msgstr ""
+
+# Projects page - section title
+msgid "Python SuperTuxKart"
+msgstr ""
+
+# Projects page
+msgid "[Python SuperTuxKart](https://github.com/philkr/pystk) is a project started in 2019 by Philipp Krähenbühl for use in machine-learning projects."
+msgstr ""
+
+# Projects page
+msgid "A heavily modified and specialized derivative, based on what is now an old version of the game, it adds a python interface to make it easy for ML projects to experiment and get access to game internals, while removing much of what human players would find essential."
+msgstr ""
+
+# Projects page
+msgid "Python SuperTuxKart has been used in some of the papers mentioned below."
+msgstr ""
+
+# Projects page - section title
+msgid "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning"
+msgstr ""
+
+# Projects page
+msgid "**A landmark paper from 2010 by Stéphane Ross & al introducing the 'DAgger' method for machine learning**, improving the methods of imitation learning. This paper is [still referenced](https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/) well over a decade later. **It used SuperTuxKart as a core part of its experiments.**"
+msgstr ""
+
+# Projects page
+msgid "The [full paper](https://arxiv.org/pdf/1011.0686) is available as well as an [old video](https://www.youtube.com/watch?v=V00npNnWzSU) showing the simple machine learning models attempting to drive."
+msgstr ""
+
+# Projects page - section title
+msgid "Using Reinforcement Learning for Load Testing of Video Games"
+msgstr ""
+
+# Projects page
+msgid "An [Italo-Swiss paper from 2022](https://sscalabrino.github.io/files/2022/ICSE2022UsingReinforcementLearning.pdf) exploring the use of an automated agent to find low FPS areas within a game, which used [PySuperTuxKart](Projects#python-supertuxkart)."
+msgstr ""
+
+# Projects page
+msgid "While the authors are optimistic about their results, a more sober assessment is that the entire approach is extraordinarily inefficient and impractical."
+msgstr ""
+
+# Projects page
+msgid "It requires a lot of work to set up and a massive use of compute, all to produce a hyper-specialized model that just drives around one track and is trained for one graphical preset, and which is completely unable to handle most scenarios that would actually be relevant for performance (such as many karts driving on the road, collisions, purposefully going off-road, networking)..."
+msgstr ""
+
+# Projects page - section title
+msgid "Miscellaneous Machine Learning Projects"
+msgstr ""
+
+# Projects page
+msgid "SuperTuxKart is used regularly by people learning machine learning at universities. Here are some example of such projects:"
+msgstr ""
+
+# Projects page
+msgid "A 2022 project combining reinforcement learning with a transformer model to play STK races on Around the Lighthouse ([Github repository](https://github.com/vibalcam/deep-rl-supertux-race) and [full paper](https://github.com/vibalcam/deep-rl-supertux-race/blob/master/deep_rl_supertux_race_report.pdf))"
+msgstr ""
+
+# Projects page
+msgid "A 2020 project as [part of a course from the University of Texas](https://github.com/jwgrogan/Super-Tux-Kart-AI) using deep learning to play STK's Icy Soccer ([GitHub repository](https://github.com/vibalcam/SuperTuxKart-hockey) and [full paper](https://adivekar.com/files/UTCS-Deep-Learning-Final-Autonomous-agents-for-realtime-multiplayer-ice-hockey.pdf))."
+msgstr ""
+
+# Projects page - section title
+msgid "Game-Based Rehabilitation for Myoelectric Prosthesis Control"
+msgstr ""
+
+# Projects page
+msgid "An [Austrian study from 2017](https://games.jmir.org/2017/1/e3/) evaluating the use of video games for the rehabilitation of upper-limb amputees. As, according to the study, many 'prosthesis users abandon their devices due to difficulties in prosthesis control', it explored games as a way to make the training process more enjoyable and efficient."
+msgstr ""
+
+# Projects page
+msgid "SuperTuxKart is one of the three games that was used as part of the study."
+msgstr ""
+
+# Projects page - section title
+msgid "Comparing the Effectiveness and Ergonomics of Smartphone-Based Gamepads"
+msgstr ""
+
+# Projects page
+msgid "A 2024 study from the University of Regensburg setting 24 people to drive in SuperTuxKart, comparing both their objective performance and subjective experience with different smartphone-based gamepads as well as a physical gamepad."
+msgstr ""
+
+# Projects page
+msgid "The detailed methodology and results highlighted in the [full paper](https://dl.acm.org/doi/fullHtml/10.1145/3670653.3670676) are very interesting."
+msgstr ""
+
+# Projects page
+msgid "Many participants felt that the absence of shoulder triggers was the biggest limitation of the smartphone-based gamepads (and the STK team agrees)."
+msgstr ""
+
+# Projects page
+msgid "Smartphones with shoulder triggers are now available on the market. Through this study, SuperTuxKart is playing a small role in making them more common!"
+msgstr ""
+
+# Projects page
+msgid "The physical gamepad proved noticeably better, despite input latency being equalized between the tested devices."
+msgstr ""
+
+# Projects page - section title
+msgid "Service-oriented Integration of SuperTuxKart"
+msgstr ""
+
+# Projects page
+msgid "A [paper from 2022](https://dl.acm.org/doi/abs/10.1007/978-3-031-26507-5_33) proposing the use of a REST API to make it easier for services to interface with the game, and presenting [a possible implementation](https://github.com/rpesl/stk-code)."
+msgstr ""
+
+# Projects page - section title
+msgid "Concepts for Advanced Integration of SuperTuxKart into Connected Cars"
+msgstr ""
+
+# Projects page
+msgid "A detailed master's thesis from the University of Stuttgart published in 2021 exploring how a connected car could be used to play games. The [full text is freely available](https://elib.uni-stuttgart.de/bitstream/11682/11901/1/Master%27s%20Thesis.pdf)."
+msgstr ""
+
+# Projects page - section title
+msgid "A Study on QoE Improvement of Online Games with UDP Multipathization by SDN"
+msgstr ""
+
+# Projects page
+msgid "A [paper from 2020](https://www.shs-conferences.org/articles/shsconf/pdf/2020/05/shsconf_etltc2020_04004.pdf) from the Nagoya Institute of Technology exploring the use of multipathization for online multiplayer. SuperTuxKart is one of the two games used in the study."
+msgstr ""
+
+# Projects page - section title
+msgid "Teaching video game translation: first steps, systems and hands-on experience"
+msgstr ""
+
+# Projects page
+msgid "A Brazilian paper from 2018 published in *Texto Livre Linguagem e Tecnologia*, with [the full research paper](https://www.researchgate.net/publication/326137347) freely available online. In section 3 'Why choose SuperTuxKart?', the authors explain how SuperTuxKart's open nature made it a natural fit for didactical purposes."
+msgstr ""
+
+# Projects page - section title
+msgid "Localization in the Era of Inclusivity"
+msgstr ""
+
+# Projects page
+msgid "A master's thesis from the University of Geneva published in 2024, [available in French](https://access.archive-ouverte.unige.ch/access/metadata/43585e58-977a-46fb-b99b-1d513d6dda46/download)."
+msgstr ""
+
+# Projects page - section title
+msgid "Towards More Accurate Open Source Kart Race Balancing"
+msgstr ""
+
+# Projects page
+msgid "A [paper from 2014](https://ieeexplore.ieee.org/document/7048073/) from the Central Michigan University comparing the powerup distribution between SuperTuxKart 0.8, Super Mario Kart, and Mario Kart 7."
+msgstr ""
+
+# Projects page - section title
+msgid "Fun projects"
+msgstr ""
+
+# Projects page - section title
+msgid "Controlling a STK kart with hand gestures"
+msgstr ""
+
+# Projects page
+msgid "A [fun project from 2024](https://www.reddit.com/r/SuperTuxKart/comments/1hdfz35/playing_supertuxkart_with_my_gaming_chair/) used hand gestures and chair orientation to control a kart. A script emulated a joystick using the data from a vision recognition system identifying gestures and from a phone on the player's chair which determined the turning angle depending on the chair's orientation."
+msgstr ""
+
+# Projects page
+msgid "The driving level possible with this control method is surprisingly good considering how funny it looks!"
+msgstr ""
+
+# Projects page - section title
+msgid "Open Street Map"
+msgstr ""
+
+# Projects page
+msgid "What about driving on the streets you know in SuperTuxKart? This is what a project from 2013 wanted to make possible, with a method using OpenStreetMap data and importing real world data explained [on the project's page](https://wiki.openstreetmap.org/wiki/SuperTuxKart)."
+msgstr ""
+
+# Projects page
+msgid "As it requires the use of the now very old SuperTuxKart 0.7.3 and also a fair amount of manual work for good results, it is not very practical, but it shows how SuperTuxKart is a game uniquely suited for cool experiments."
 msgstr ""
 
 msgid "Click here if you are not redirected."

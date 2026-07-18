@@ -1,4 +1,48 @@
 {% blog_article
+The Electro-Shield, a new powerup for SuperTuxKart Evolution
+
+One of the great novelties that will come with SuperTuxKart Evolution is an expanded powerup set, to increase the fun of new and experienced players alike.
+
+In this blog post, [we take a deep dive into the electro-shield](https://blog.supertuxkart.net/2026/07/the-electro-shield-new-powerup-for.html), the first of the new powerups, looking at how we designed it and how it works.
+
+July 12, 2026 by Alayan
+%}
+
+{% gallery widths=90%
+/assets/blog/Blog_electro-shield_thumb.jpg,,https://blog.supertuxkart.net/2026/07/the-electro-shield-new-powerup-for.html,A picture featuring the SuperTuxKart Evolution logo and showcasing a new powerup called the electro-shield
+%}
+
+{% blog_article
+SuperTuxKart Evolution's new logo
+
+With a new game comes the need for a new logo. Thanks to a new contributor, we now have a beautiful one.
+
+Read [the full blog post](https://blog.supertuxkart.net/2026/06/supertuxkart-evolutions-new-logo.html) for more pictures and animations showcasing the new logo, as well as thoughts on the design process behind it.
+
+June 25, 2026 by Vollstock
+%}
+
+{% gallery widths=90%
+/assets/wiki/STK-Evolution-logo-preview.jpg,,https://blog.supertuxkart.net/2026/06/supertuxkart-evolutions-new-logo.html,A picture showing SuperTuxKart Evolution's logo on a blue background
+%}
+
+{% blog_article
+The History of SuperTuxKart
+
+To celebrate the 7th anniversary of SuperTuxKart 1.0's release, the SuperTuxKart team is happy to present an [entirely new history page](History_of_SuperTuxKart) that explores over two decades of development!
+
+From the times of TuxKart to SuperTuxKart Evolution, this history page, illustrated with many pictures, will let you discover your favorite game's journey.
+
+The [full blog post](https://blog.supertuxkart.net/2026/04/the-history-of-supertuxkart.html) announcing this new page also gives an update on some recent changes to our website and upcoming plans so be sure to check it out!
+
+April 20, 2026 by Alayan
+%}
+
+{% gallery widths=90%
+/assets/wiki/SuperTuxKart_History_Title.jpg,,https://blog.supertuxkart.net/2026/04/the-history-of-supertuxkart.html,A picture titled 'The History of SuperTuxKart' showing the evolution of Oliver's Maths Class and Fort Magma throughout the project's history
+%}
+
+{% blog_article
 SuperTuxKart Evolution: Freytra Peaks making of
 
 After years of racing through Snow Peak's icy slopes, racers are getting a new track. In this blog post, we'll look at the creation process behind the upcoming track "Freytra Peaks", which will be included in the main game with the release of STK Evolution. Explore the creative process behind the track's design and the techniques used to bring it to life, illustrated with images and a video in the full blog post.
@@ -7,14 +51,14 @@ After years of racing through Snow Peak's icy slopes, racers are getting a new t
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/rVmVqc-b9VM" title="SuperTuxKart Evolution: Freytra Peaks making of" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width: 640px;"></iframe>
 </div>
 
-Read [the full blog post](https://blog.supertuxkart.net/2026/03/freytra-peaks-making-of.html)
+Read [the full blog post](https://blog.supertuxkart.net/2026/03/freytra-peaks-making-of.html).
 March 19, 2026 by Sven
 %}
 
 {% blog_article
 My return to SuperTuxKart
 
-In 2017, I left SuperTuxKart on the highest note imaginable - a standing ovation at the Blender Conference in Amsterdam as we launched the mobile version. I believed then, and still do, that it's better to end with a firework than fade slowly to irrelevance. I thought that chapter was closed. But sometimes, a project you love calls you back - not because your story wasn't complete, but because there's a new story to write.
+In 2017, I left SuperTuxKart on the highest note imaginable - a standing ovation at the Blender Conference in Amsterdam as we launched the mobile version. I believed then, and still do, that it's better to end with a firework than fade slowly into irrelevance. I thought that chapter was closed. But sometimes, a project you love calls you back - not because your story wasn't complete, but because there's a new story to write.
 
 Read [my blog post](https://blog.supertuxkart.net/2026/01/my-return-to-supertuxkart.html) to learn about my journey with STK.
 
@@ -24,7 +68,7 @@ January 21, 2026 by Samuncle
 {% blog_article
 SuperTuxKart Evolution: Karting without a hitch
 
-This first blog post exploring the gameplay novelties and improvements we are working on for SuperTuxKart Evolution looks at collisions between karts, the collection of track items, jumps, and several others topics.
+This first blog post exploring the gameplay novelties and improvements we are working on for SuperTuxKart Evolution looks at collisions between karts, the collection of track items, jumps, and several other topics.
 
 Pictures, charts and even a video help illustrate the various gameplay changes that the text talks about, around a common theme of making the gameplay more consistent, intuitive and fun.
 
@@ -106,7 +150,7 @@ Announcing SuperTuxKart Evolution
 
 The SuperTuxKart project is entering a new phase of its development, with SuperTuxKart Evolution as the next step in its journey.
 
-Read the full [blog post here](https://blog.supertuxkart.net/2025/08/announcing-supertuxkart-evolution.html). Additional information is available in our [FAQ about STK Evolution](STK_Evolution_FAQ).
+Read the full [blog post here](https://blog.supertuxkart.net/2025/08/announcing-supertuxkart-evolution.html). Additional information is available in our [FAQ about STK Evolution](FAQ#supertuxkart-evolution).
 
 August 26, 2025 by [Alayan](https://github.com/Alayan-stk-2)
 %}

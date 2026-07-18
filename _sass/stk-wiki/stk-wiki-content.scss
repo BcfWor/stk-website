@@ -2,7 +2,7 @@
 .article_main_title {
     background-color: #D7D7CB;
     text-align: center;
-    color: #5d5d5d;
+    color: #3d3d3d;
     /*padding-top: 1px;
     padding-bottom: 1px;*/
 }
@@ -15,6 +15,16 @@ margin-right: 20%;
 background-color: #7ec283;
 text-align: center;
 color: #232627;
+}
+
+h2
+{
+font-size: 1.65rem;
+}
+
+h3
+{
+font-size: 1.4rem;
 }
 
 /* popup_code */
@@ -66,26 +76,27 @@ color: #232627;
     font-size: 12px;
 }
 
-.character_presentation_small {
+.character_presentation_small, .presentation_small_with_flow {
    width: 50%;
+   vertical-align: top;
 }
 
 @media only screen and (max-width: 480px) {
-    .character_presentation_small {
+    .character_presentation_small, .presentation_small_with_flow {
         display: block;
         height: auto;
     }
 }
 
 @media only screen and (max-width: 800px) {
-    .character_presentation_small {
+    .character_presentation_small, .presentation_small_with_flow {
         display: block;
         width: 100%;
         height: auto;
     }
 }
 
-.character_container caption {
+.character_container caption, .presentation_container caption {
     background-color: #7ec283;
     padding-top: 1px;
     padding-bottom: 1px;
@@ -186,7 +197,114 @@ span[id="markdown-closing-bracket"]:before {
     -ms-user-select: none;
 }
 
-#art_portal_nav
+input[id^="qa"]:not(:checked) ~ .qa-answer table {
+    display: none !important;
+    visibility: hidden;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.qa-answer table {
+    margin-bottom: 1rem;
+    border-collapse: collapse; 
+    overflow: hidden;
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 3px 0px rgba(0, 0, 0, 0.75);
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.qa-answer table th, 
+.qa-answer table td {
+    padding: 8px 8px;
+    text-align: center;
+}
+
+.qa-answer table th {
+    background-color: #cccccc;
+    font-weight: bold;
+}
+
+.qa-answer table tr td {
+    border-top: 1px solid #444;
+}
+
+.qa-answer table th:not(:first-child),
+.qa-answer table td:not(:first-child) {
+    border-left: 1px solid #444;
+}
+
+/* css for unroll-boxes (same general principle as qa boxes but different styling) */
+.ubox-title {
+    display: inline-block;
+    width: 100%;
+    cursor: pointer;
+    padding: 3px;
+    background-color: transparent;
+    color: #414141;
+    border-bottom: 5px solid transparent;
+    border-top: 5px solid transparent;
+    text-align: center;
+    position: relative; /* Important for positioning the arrows */
+}
+
+.ubox-title h2 {
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+/* Arrows to hint that the title-box can be opened */
+.ubox-title h2::before {
+    display: inline-block;
+    content: "▼"; /* replaced by an upward arrow when opened */
+    position: absolute;
+    left: 15px; /* Distance from the left edge */
+    font-size: 0.8em;
+    color: #bba;
+}
+.ubox-title h2::after {
+    display: inline-block;
+    content: "▼"; /* replaced by an upward arrow when opened */
+    position: absolute;
+    right: 15px; /* Distance from the right edge */
+    font-size: 0.8em;
+    color: #bba;
+}
+
+/* Downward triangles when the unroll box is closed */
+.ubox-title h2::before,
+.ubox-title h2::after {
+    transform: translateY(10%) rotate(0deg); /* TranslateY to adjust vertical positioning */
+}
+
+/* Upward triangles when the unroll box has been opened */
+input:checked + .ubox-title h2::before,
+input:checked + .ubox-title h2::after {
+    transform: translateY(20%) rotate(180deg); /* Display ▲ instead */
+}
+
+.ubox-title:hover {
+    background-color: #bdbdb3;
+}
+
+.ubox-boxcontent {
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+    opacity: 0;
+    max-height: 0;
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+#art_portal_nav, #code_portal_nav, #discover_portal_nav
 {
     background-color: rgba(0, 0, 0, 0.9);
     display: flex;
@@ -197,7 +315,7 @@ span[id="markdown-closing-bracket"]:before {
     padding-left: 15px;
 }
 
-.art_portal_nav_item
+.art_portal_nav_item, .code_portal_nav_item, .discover_portal_nav_item
 {
     display: flex;
     flex-grow: 1;
@@ -208,62 +326,69 @@ span[id="markdown-closing-bracket"]:before {
     padding: 10px;
 }
 
-.art_portal_nav_text a
+.art_portal_nav_text a, .code_portal_nav_text a, .discover_portal_nav_text a
 {
     color: white;
     font-weight: bold;
     transition: color .15s;
 }
 
-.art_portal_nav_text a:hover
+.art_portal_nav_text a:hover, .code_portal_nav_text a:hover, .discover_portal_nav_text a:hover
 {
     color: orange;
 }
 
-#special_return_to_art_portal
+#special_return_to_art_portal, #special_return_to_code_portal, #special_return_to_discover_portal
 {
     background-color: #16a085;
     padding-right: 20px;
     margin-right: 5px;
 }
 
-#code_portal_nav
+td.small_news_title a
 {
-    background-color: rgba(0, 0, 0, 0.9);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    margin: 15px;
-    padding-left: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #9beea1;
+    color: #111111;
 }
 
-.code_portal_nav_item
+td.small_news_picture div div a img
 {
-    display: flex;
-    flex-grow: 1;
-    flex-shrink: 1;
-    flex-basis: auto;
-    align-items: center;
-    justify-content: center;
-    padding: 10px;
+    display: block;
 }
 
-.code_portal_nav_text a
+td.small_news_picture div div
 {
-    color: white;
-    font-weight: bold;
-    transition: color .15s;
+    padding: 0px;
 }
 
-.code_portal_nav_text a:hover
+td.small_news_date
 {
-    color: orange;
+    color: #3d3d3d;
 }
 
-#special_return_to_code_portal
+iframe.alt-donate
 {
-    background-color: #16a085;
-    padding-right: 20px;
-    margin-right: 5px;
+  display: block;
+  max-width: 650px;
+  width: 90%;
+  border: 0;
+  margin: 0 auto;
+  height: 970px;
+}
+
+/* Mobile layout */
+@media (max-width: 768px)
+{
+  iframe.alt-donate {
+    height: 1020px;
+  }
+}
+
+@media (max-width: 731px)
+{
+  iframe.alt-donate {
+    height: 1540px;
+  }
 }

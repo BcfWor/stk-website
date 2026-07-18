@@ -2,246 +2,404 @@
 title: Gallery
 ---
 
-{%main_title SuperTuxKart Evolution (preview)%}
+{% capture screenshot_title -%}
+{%translate "Screenshots"%}
+{%- endcapture -%}
 
-{%minor_title Screenshots%}
+{% capture trailer_text -%}
+{%translate "Trailer"%}
+{%- endcapture -%}
 
-{% gallery widths=32%
-/assets/wiki/STKEvolution_1.jpg
-/assets/wiki/STKEvolution_2.jpg
-/assets/wiki/STKEvolution_3.jpg
-/assets/wiki/STKEvolution_4.jpg
-/assets/wiki/STKEvolution_5.jpg
-/assets/wiki/STKEvolution_6.jpg
-%}
+{% capture gameplay_text -%}
+{%translate "Gameplay footage"%}
+{%- endcapture -%}
 
-{%main_title 1.3%}
+{% capture video_title_plural -%}
+{%translate "Videos"%}
+{%- endcapture -%}
 
-{%minor_title Video%}
+{% capture evolution_title%}
 
-[Trailer](https://trailer.supertuxkart.net/1.3/trailer.mp4)
+{%translate "SuperTuxKart Evolution (preview)"%}
 
-{%minor_title Screenshots%}
+{% endcapture %}
 
-{% gallery widths=32%
-/assets/wiki/STK1.3_1.jpg
-/assets/wiki/STK1.3_2.jpg
-/assets/wiki/STK1.3_3.jpg
-/assets/wiki/STK1.3_4.jpg
-/assets/wiki/STK1.3_5.jpg
-/assets/wiki/STK1.3_6.jpg
-%}
+{%main_title {{ evolution_title }}%}
 
-{%main_title 0.9.3%}
+{%minor_title {{ screenshot_title }}%}
 
-{%minor_title Video%}
+{% capture freytra -%}
+{%translate "Freytra Peaks"%}
+{%- endcapture -%}
 
-[Trailer](https://www.youtube.com/watch?v=hcgDUT4bwls)
+{% capture blackforest_evo -%}
+{%translate "Black Forest (Evolution)"%}
+{%- endcapture -%}
 
-{%minor_title Screenshots%}
+{% capture newfm -%}
+{%translate "Fort Magma (Evolution)"%}
+{%- endcapture -%}
 
-{% gallery widths=32%
-/assets/wiki/STK0.9.3_1.jpg
-/assets/wiki/STK0.9.3_2.jpg
-/assets/wiki/STK0.9.3_3.jpg
-%}
+{% capture shiftingsands_evo -%}
+{%translate "Shifting Sands (Evolution)"%}
+{%- endcapture -%}
 
-{%main_title 0.9.2%}
+{% capture draindash -%}
+{%translate "Drainage Dash"%}
+{%- endcapture -%}
 
-{%minor_title Video%}
-
-[Trailer](https://www.youtube.com/watch?v=ev8Zltau4zw)
-
-{%minor_title Screenshots%}
+{% capture alpinevalley -%}
+{%translate "Alpine Valley"%}
+{%- endcapture -%}
 
 {% gallery widths=32%
-/assets/wiki/STK0.9.2_1.jpg
-/assets/wiki/STK0.9.2_2.jpg
-/assets/wiki/STK0.9.2_3.jpg
-/assets/wiki/STK0.9.2_4.jpg
-/assets/wiki/STK0.9.2_5.jpg
-/assets/wiki/STK0.9.2_6.jpg
+/assets/gallery/STKEvolution_1.jpg,{{ freytra | strip }},,SuperTuxKart Evolution preview: A view from Freytra Peak's hamlet with a beautiful brick and wood building on the left and electric lines crossing the road farther back
+/assets/gallery/STKEvolution_2.jpg,{{ blackforest_evo | strip }},,SuperTuxKart Evolution preview: A sunny view of Black Forest with a small river flowing
+/assets/gallery/STKEvolution_3.jpg,{{ newfm | strip }},,SuperTuxKart Evolution preview: A hall in New Fort Magma with ominous ball chains threatening drivers
+/assets/gallery/STKEvolution_4.jpg,{{ shiftingsands_evo | strip }},,SuperTuxKart Evolution preview: Dashie facing the starting line in an improved version of Shifting Sands
+/assets/gallery/STKEvolution_5.jpg,{{ draindash | strip }},,SuperTuxKart Evolution preview: Konqi driving in Drainage Dash's main curve, with toxic sludge flowing from pipes in a pool in the background
+/assets/gallery/STKEvolution_6.jpg,{{ alpinevalley | strip }},,SuperTuxKart Evolution preview: a peaceful mountain landscape in Alpine Valley with a waterfall and a church in the background
 %}
 
-{%main_title 0.9.1%}
 
-{%minor_title Video%}
+{% capture modern_title%}
 
-[Trailer](https://www.youtube.com/watch?v=tKD3aWJDg3M)
+{%translate "Modern Era: 1.0 to 1.5"%}
 
-{%minor_title Screenshots%}
+{% endcapture %}
+
+{% capture xr_soccer -%}
+{%translate "XR-4R3N4 (soccer field)"%}
+{%- endcapture -%}
+
+{% capture bf_egg -%}
+{%translate "Black Forest (egg hunt)"%}
+{%- endcapture -%}
+
+{% capture oasis_soccer -%}
+{%translate "Oasis (soccer field)"%}
+{%- endcapture -%}
+
+{% capture bf_pepper -%}
+{%translate "Black Forest"%}
+{%- endcapture -%}
+
+{% capture northern_adiumy -%}
+{%translate "Northern Resort"%}
+{%- endcapture -%}
+
+{% capture candela_beastie -%}
+{%translate "Candela City"%}
+{%- endcapture -%}
+
+{% capture labyrinth_kiki -%}
+{%translate "Ancient Colosseum Labyrinth (arena)"%}
+{%- endcapture -%}
+
+{% capture alien_signal_sara -%}
+{%translate "Alien Signal (arena)"%}
+{%- endcapture -%}
+
+{% capture lasdunas_soccer_gnu -%}
+{%translate "Las Dunas Soccer Stadium"%}
+{%- endcapture -%}
+
+{% capture ravenbridge -%}
+{%translate "Ravenbridge Mansion"%}
+{%- endcapture -%}
+
+{% capture bf_train -%}
+{%translate "Black Forest"%}
+{%- endcapture -%}
+
+{% capture volcan_island -%}
+{%translate "Volcan Island"%}
+{%- endcapture -%}
+
+{%main_title {{ modern_title }}%}
+
+{%minor_title {{ video_title_plural }}%}
+
+<div style="text-align: center; max-width: 100%;">
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/H1Lo7PlTGBk" title="SuperTuxKart 1.5 Release Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width: 640px;"></iframe>
+</div>
 
 {% gallery widths=32%
-/assets/wiki/STK0.9.1_1.jpg
-/assets/wiki/STK0.9.1_2.jpg
-/assets/wiki/STK0.9.1_3.jpg
-/assets/wiki/STK0.9.1_4.jpg
-/assets/wiki/STK0.9.1_5.jpg
-/assets/wiki/STK0.9.1_6.jpg
-/assets/wiki/STK0.9.1_7.jpg
+/assets/gallery/Trailer_thumb_1.3.jpg,{{ trailer_text }} (1.3),https://www.youtube.com/watch?v=ef9vYcuEDL4
+/assets/gallery/Trailer_thumb_1.2.jpg,{{ trailer_text }} (1.2),https://www.youtube.com/watch?v=_kNtEKfN4Hg
+/assets/gallery/Trailer_thumb_1.0.jpg,{{ trailer_text }} (1.0),https://www.youtube.com/watch?v=Lm1TFDBiIIg
 %}
 
-{%main_title 0.9%}
-
-{%minor_title Video%}
-
-[Trailer](https://www.youtube.com/watch?v=0FEwDH7XU9Q)
-
-{%minor_title Screenshots%}
+{%minor_title {{ screenshot_title }} (1.5)%}
 
 {% gallery widths=32%
-/assets/wiki/STK0.9_1.jpg
-/assets/wiki/STK0.9_2.jpg
-/assets/wiki/STK0.9_3.jpg
-/assets/wiki/STK0.9_4.jpg
-/assets/wiki/STK0.9_5.jpg
-/assets/wiki/STK0.9_6.jpg
-/assets/wiki/STK0.9_7.jpg
-/assets/wiki/STK0.9_8.jpg
+/assets/gallery/SuperTuxKart_1.5_1.jpg,{{ xr_soccer }},,SuperTuxKart 1.5: Emule driving towards a green ball in the new soccer field XR-4R3N4 themed after XR591
+/assets/gallery/SuperTuxKart_1.5_2.jpg,{{ bf_egg }},,SuperTuxKart 1.5: Kiki next to an egg on a shaded house balcony in Black Forest with a monastery visible in the background on a hill
+/assets/gallery/SuperTuxKart_1.5_3.jpg,{{ oasis_soccer }},,SuperTuxKart 1.5: Godette driving in the shallow pool of water in the middle of the new soccer field Oasis with other karts driving towards the soccer ball
 %}
 
-{%main_title 0.8.1%}
+{%minor_title {{ screenshot_title }} (1.3)%}
 
-{%minor_title Video%}
+{% gallery widths=32%
+/assets/gallery/STK1.3_1.jpg,{{ bf_pepper }},,SuperTuxKart 1.3: The new Pepper kart driving in Black Forest heading toward a road fork
+/assets/gallery/STK1.3_2.jpg,{{ northern_adiumy }},,SuperTuxKart 1.3: Adiumy driving in Northern Resort with a green aurora borealis in the background lighting up the night sky
+/assets/gallery/STK1.3_3.jpg,{{ candela_beastie }},,SuperTuxKart 1.3: Beastie driving around Candela City's sharp bend with a small building advertising a gondola ride service visible on the right
+/assets/gallery/STK1.3_4.jpg,{{ labyrinth_kiki }},,SuperTuxKart 1.3: Kiki maneuvering with a Capture-The-Flag flag in Ancient Colosseum Labyrinth
+/assets/gallery/STK1.3_5.jpg,{{ alien_signal_sara }},,SuperTuxKart 1.3: An improved Sara kart driving in the battle arena Alien Signal set on a decrepit radiotelescope
+/assets/gallery/STK1.3_6.jpg,{{ lasdunas_soccer_gnu }},,SuperTuxKart 1.3: An improved GNU kart with night lights facing the camera in Las Dunas Soccer with a big soccer ball visible behind
+%}
 
-[Trailer](https://www.youtube.com/watch?v=WutAN4i98_o)
+{%minor_title {{ screenshot_title }} (1.0)%}
 
-{%minor_title Screenshots%}
+{% gallery widths=32%
+/assets/gallery/STK1.0_1.jpg,{{ ravenbridge }},,SuperTuxKart 1.0: Beastie in front of the entrance the Ravenbridge estate in Ravenbridge Mansion with the full moon visible in the background
+/assets/gallery/STK1.0_2.jpg,{{ bf_train }},,SuperTuxKart 1.0: Xue driving towards the main bridge in Black Forest with a train steaming ahead on the railtrack running next to the road
+/assets/gallery/STK1.0_3.jpg,{{ volcan_island }},,SuperTuxKart 1.0: Emule drifting in Volcan Island going towards bananas that were added for 1.0 to make the track more difficult
+%}
+
+<!-- Screenshots from old versions are in collapsible boxes -->
+
+{% capture antarctica_title%}
+
+{%translate "Antarctica: 0.9 to 0.9.3"%}
+
+{% endcapture %}
+
+{% capture antarctica_content%}
+
+{%minor_title {{ video_title_plural }}%}
 
 {% gallery widths=24%
-/assets/wiki/STK0.8.1_1.jpg
-/assets/wiki/STK0.8.1_2.jpg
-/assets/wiki/STK0.8.1_3.jpg
-/assets/wiki/STK0.8.1_4.jpg
-/assets/wiki/STK0.8.1_5.jpg
-/assets/wiki/STK0.8.1_6.jpg
-/assets/wiki/STK0.8.1_7.jpg
-/assets/wiki/STK0.8.1_8.jpg
+/assets/gallery/Trailer_thumb_0.9.3.jpg,{{ trailer_text }} (0.9.3),https://www.youtube.com/watch?v=hcgDUT4bwls
+/assets/gallery/Trailer_thumb_0.9.2.jpg,{{ trailer_text }} (0.9.2),https://www.youtube.com/watch?v=ev8Zltau4zw
+/assets/gallery/Trailer_thumb_0.9.1.jpg,{{ trailer_text }} (0.9.1),https://www.youtube.com/watch?v=tKD3aWJDg3M
+/assets/gallery/Trailer_thumb_0.9.jpg,{{ trailer_text }} (0.9),https://www.youtube.com/watch?v=0FEwDH7XU9Q
 %}
 
-{%main_title 0.8%}
-
-{%minor_title Video%}
-
-[Trailer](https://www.youtube.com/watch?v=wwSXCrNjTm4)
-
-{%minor_title Screenshots%}
+{%minor_title {{ screenshot_title }} (0.9.3)%}
 
 {% gallery widths=32%
-/assets/wiki/STK0.8_1.jpg
-/assets/wiki/STK0.8_2.jpg
-/assets/wiki/STK0.8_3.jpg
-/assets/wiki/STK0.8_4.jpg
-/assets/wiki/STK0.8_5.jpg
-/assets/wiki/STK0.8_6.jpg
+/assets/gallery/STK0.9.3_1.jpg,,,SuperTuxKart 0.9.3: Tux facing Cinéma le Quartz in Candela City
+/assets/gallery/STK0.9.3_2.jpg,,,SuperTuxKart 0.9.3: Suzanne heading towards Cornfield Crossing's barn
+/assets/gallery/STK0.9.3_3.jpg,,,SuperTuxKart 0.9.3: Konqi driving in Antediluvian Abysses with swimming fishes visible behind the glass walls
 %}
 
-{%main_title 0.7%}
 
-{%minor_title Videos%}
+{%minor_title {{ screenshot_title }} (0.9.2)%}
 
-0.7.3 [[1]](https://www.youtube.com/watch?v=4ZoguEjB5XY)
+{% gallery widths=32%
+/assets/gallery/STK0.9.2_1.jpg
+/assets/gallery/STK0.9.2_2.jpg
+/assets/gallery/STK0.9.2_3.jpg
+/assets/gallery/STK0.9.2_4.jpg
+/assets/gallery/STK0.9.2_5.jpg
+/assets/gallery/STK0.9.2_6.jpg
+%}
 
-0.7.2 [[2]](https://www.youtube.com/watch?v=7CHqMdDo_LU)
+{%minor_title {{ screenshot_title }} (0.9.1)%}
 
-0.7.1 [[3]](https://www.youtube.com/watch?v=J4zMhV8Lb60)
+{% gallery widths=32%
+/assets/gallery/STK0.9.1_1.jpg
+/assets/gallery/STK0.9.1_2.jpg
+/assets/gallery/STK0.9.1_3.jpg
+/assets/gallery/STK0.9.1_4.jpg
+/assets/gallery/STK0.9.1_5.jpg
+/assets/gallery/STK0.9.1_6.jpg
+/assets/gallery/STK0.9.1_7.jpg
+%}
 
-0.7 [[4]](https://www.youtube.com/v/tAgDWSfEESA)
-[[5]](https://www.youtube.com/watch?v=OB8B8ZxufEs)
-[[6]](https://www.youtube.com/watch?v=HK9b9d6M_6s)
-[[7]](https://www.youtube.com/watch?v=k9Bt2J5CbLY)
-[[8]](https://www.youtube.com/watch?v=_D5D2AZaq5o)
+{%minor_title {{ screenshot_title }} (0.9)%}
 
-{%minor_title Screenshots%}
+{% gallery widths=32%
+/assets/gallery/STK0.9_1.jpg
+/assets/gallery/STK0.9_2.jpg
+/assets/gallery/STK0.9_3.jpg
+/assets/gallery/STK0.9_4.jpg
+/assets/gallery/STK0.9_5.jpg
+/assets/gallery/STK0.9_6.jpg
+/assets/gallery/STK0.9_7.jpg
+/assets/gallery/STK0.9_8.jpg
+%}
+
+{% endcapture %}
+
+
+
+{% capture classic_era_title%}
+
+{%translate "Classic Era: 0.7 to 0.8.1"%}
+
+{% endcapture %}
+
+{% capture classic_era_content%}
+
+{%minor_title {{ video_title_plural }}%}
+
+{% capture trailer_caption_1.3 -%}
+{%translate "1.3 Trailer"%}
+{%- endcapture -%}
+
+{% gallery widths=32%
+/assets/gallery/Trailer_thumb_0.8.1.jpg,{{ trailer_text }} (0.8.1),https://www.youtube.com/watch?v=WutAN4i98_o
+/assets/gallery/Trailer_thumb_0.8b.jpg,{{ trailer_text }} (0.8),https://www.youtube.com/watch?v=wwSXCrNjTm4
+/assets/gallery/Gameplay_thumb_0.7b.jpg,{{ gameplay_text }} (0.7),https://www.youtube.com/watch?v=_D5D2AZaq5o
+%}
+
+{%minor_title {{ screenshot_title }} (0.8.1)%}
 
 {% gallery widths=24%
-/assets/wiki/STK0.7.2_1.jpg
-/assets/wiki/STK0.7.2_2.jpg
-/assets/wiki/STK0.7_1.jpg
-/assets/wiki/STK0.7_2.jpg
-/assets/wiki/STK0.7_3.jpg
-/assets/wiki/STK0.7_4.jpg
-/assets/wiki/STK0.7_5.jpg
-/assets/wiki/STK0.7_6.jpg
+/assets/gallery/STK0.8.1_1.jpg
+/assets/gallery/STK0.8.1_2.jpg
+/assets/gallery/STK0.8.1_3.jpg
+/assets/gallery/STK0.8.1_4.jpg
+/assets/gallery/STK0.8.1_5.jpg
+/assets/gallery/STK0.8.1_6.jpg
+/assets/gallery/STK0.8.1_7.jpg
+/assets/gallery/STK0.8.1_8.jpg
 %}
 
-{%main_title 0.6%}
+{%minor_title {{ screenshot_title }} (0.8)%}
 
-{%minor_title Video%}
-
-[Trailer](https://www.vimeo.com/2891554)
-
-{%minor_title Screenshots%}
-
-{% single_gallery widths=18%
-/assets/wiki/STK0.6_1.jpg
-/assets/wiki/STK0.6_2.jpg
-/assets/wiki/STK0.6_3.jpg
-/assets/wiki/STK0.6_4.jpg
-/assets/wiki/STK0.6_5.jpg
-/assets/wiki/STK0.6_6.jpg
-/assets/wiki/STK0.6_7.jpg
-/assets/wiki/STK0.6_8.jpg
-/assets/wiki/STK0.6_9.jpg
-/assets/wiki/STK0.6_10.jpg
-/assets/wiki/STK0.6_11.jpg
+{% gallery widths=32%
+/assets/gallery/STK0.8_1.jpg
+/assets/gallery/STK0.8_2.jpg
+/assets/gallery/STK0.8_3.jpg
+/assets/gallery/STK0.8_4.jpg
+/assets/gallery/STK0.8_5.jpg
+/assets/gallery/STK0.8_6.jpg
 %}
 
-{%main_title 0.5%}
+{%minor_title {{ screenshot_title }} (0.7.3)%}
 
-{%minor_title Screenshots%}
-
-{% single_gallery widths=18%
-/assets/wiki/STK0.5_1.jpg
-/assets/wiki/STK0.5_2.jpg
-/assets/wiki/STK0.5_3.jpg
-/assets/wiki/STK0.5_4.jpg
-/assets/wiki/STK0.5_5.jpg
-/assets/wiki/STK0.5_6.jpg
-/assets/wiki/STK0.5_7.jpg
+{% gallery widths=40%
+/assets/gallery/STK0.7.3_1.jpg,,,SuperTuxKart 0.7.3: A new kart - Suzanne - is looking down a slope in the newly introduced Minigolf track
+/assets/gallery/STK0.7.3_2.jpg,,,SuperTuxKart 0.7.3: Beastie - a kart introduced in 0.7.2 - is driving in an improved Snow Peak
 %}
 
-{%main_title 0.4%}
+{%minor_title {{ screenshot_title }} (0.7)%}
 
-{%minor_title Screenshots%}
-
-{% single_gallery widths=48%
-/assets/wiki/STK0.4_1.jpg
-/assets/wiki/STK0.4_2.jpg
+{% gallery widths=32%
+/assets/gallery/STK0.7_1.jpg
+/assets/gallery/STK0.7_2.jpg
+/assets/gallery/STK0.7_3.jpg
+/assets/gallery/STK0.7_4.jpg
+/assets/gallery/STK0.7_5.jpg
+/assets/gallery/STK0.7_6.jpg
 %}
 
-{%main_title 0.3 (Halloween edition)%}
+{% endcapture %}
 
-{%minor_title Screenshots%}
+{% capture rising_title%}
 
-{% single_gallery widths=48%
-/assets/wiki/STK0.3h_1.jpg
-/assets/wiki/STK0.3h_2.jpg
+{%translate "Rising Recognition: 0.5 to 0.6.2"%}
+
+{% endcapture %}
+
+{% capture rising_content %}
+
+{%minor_title {{ screenshot_title }} (0.6)%}
+
+{% single_gallery widths=24%
+/assets/gallery/STK0.6_1.jpg
+/assets/gallery/STK0.6_2.jpg
+/assets/gallery/STK0.6_3.jpg
+/assets/gallery/STK0.6_4.jpg
+/assets/gallery/STK0.6_5.jpg
+/assets/gallery/STK0.6_6.jpg
+/assets/gallery/STK0.6_7.jpg
+/assets/gallery/STK0.6_8.jpg
+/assets/gallery/STK0.6_9.jpg
+/assets/gallery/STK0.6_10.jpg
+/assets/gallery/STK0.6_11.jpg
 %}
 
-{%main_title 0.3%}
+{%minor_title {{ screenshot_title }} (0.5)%}
 
-{%minor_title Screenshots%}
-
-{% gallery widths=48%
-/assets/wiki/STK0.3_1.jpg
-/assets/wiki/STK0.3_2.jpg
+{% single_gallery widths=24%
+/assets/gallery/STK0.5_1.jpg
+/assets/gallery/STK0.5_2.jpg
+/assets/gallery/STK0.5_3.jpg
+/assets/gallery/STK0.5_4.jpg
+/assets/gallery/STK0.5_5.jpg
+/assets/gallery/STK0.5_6.jpg
+/assets/gallery/STK0.5_7.jpg
 %}
 
-{%main_title 0.2%}
+{% endcapture %}
 
-{%minor_title Screenshots%}
+{% capture early_days_title %}
 
-{% single_gallery widths=48%
-/assets/wiki/STK0.2_1.jpg
-/assets/wiki/STK0.2_2.jpg
+{%translate "Early days: 0.0.0 to 0.4"%}
+
+{% endcapture %}
+
+{% capture early_days_content %}
+
+{%minor_title {{ screenshot_title }} (0.4)%}
+
+{% single_gallery widths=40%
+/assets/gallery/STK0.4_1.jpg
+/assets/gallery/STK0.4_2.jpg
 %}
 
-{%main_title 0.0.0%}
+{%minor_title  {{ screenshot_title }} (0.3 Halloween Edition)%}
 
-{%minor_title Screenshots%}
-
-{% single_gallery widths=48%
-/assets/wiki/STK0.0.0_1.jpg
-/assets/wiki/STK0.0.0_2.jpg
+{% single_gallery widths=40%
+/assets/gallery/STK0.3h_1.jpg
+/assets/gallery/STK0.3h_2.jpg
 %}
+
+{%minor_title {{ screenshot_title }} (0.3)%}
+
+{% single_gallery widths=40%
+/assets/gallery/STK0.3_1.jpg
+/assets/gallery/STK0.3_2.jpg
+%}
+
+{%minor_title {{ screenshot_title }} (0.2)%}
+
+{% single_gallery widths=40%
+/assets/gallery/STK0.2_1.jpg
+/assets/gallery/STK0.2_2.jpg
+%}
+
+{%minor_title {{ screenshot_title }} (0.0.0)%}
+
+{% single_gallery widths=40%
+/assets/gallery/STK0.0.0_1.jpg
+/assets/gallery/STK0.0.0_2.jpg
+%}
+
+{% endcapture %}
+
+{% start_liquid ubox %}
+
+{{ antarctica_title }}
+
+{{ antarctica_content }}
+
+{% end_liquid %}
+
+{% start_liquid ubox %}
+
+{{ classic_era_title }}
+
+{{ classic_era_content }}
+
+{% end_liquid %}
+
+{% start_liquid ubox %}
+
+{{ rising_title }}
+
+{{ rising_content }}
+
+{% end_liquid %}
+
+{% start_liquid ubox %}
+
+{{ early_days_title }}
+
+{{ early_days_content }}
+
+{% end_liquid %}

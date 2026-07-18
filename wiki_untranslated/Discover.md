@@ -2,199 +2,181 @@
 title: Discover
 ---
 {% capture heading -%}
-..:: {%translate Welcome to the Mascot Kingdom!,Page title of discover page%} ::..
+{%translate "Welcome to the Mascot Kingdom!","Discover page - page title"%}
 {%- endcapture %}
 {%main_title {{ heading }}%}
 
 {% gallery widths=32%
-/assets/wiki/STK1.3_1.jpg
-/assets/wiki/STK1.3_2.jpg
-/assets/wiki/STK1.3_3.jpg
+/assets/gallery/STK1.3_1.jpg
+/assets/gallery/STK1.3_2.jpg
+/assets/gallery/STK1.3_3.jpg
 %}
 
-{%translate "Karts. Nitro. Action! SuperTuxKart is a 3D open-source arcade racer with a variety of characters, tracks, and modes to play. Our aim is to create a game that is more fun than realistic, and provide an enjoyable experience for all ages."%}
+{%translate "Karts. Nitro. Action! SuperTuxKart is a 3D open-source arcade racer with a variety of characters, tracks, and modes to play. Our aim is to create a game that is more fun than realistic, and provide an enjoyable experience for all ages.","Discover page"%}
 
-{%translate "In Story mode, you must face the evil Nolok, and defeat him in order to make the Mascot Kingdom safe once again! You can race by yourself against the computer, compete in several Grand Prix cups, or try to beat your fastest time in Time Trial mode. You can also race, battle or play soccer with up to eight friends on a single computer, play on a local network or play online with other players all over the world."%}
+{%translate "In Story mode, you must face the evil Nolok, and defeat him in order to make the Mascot Kingdom safe once again! You can race by yourself against the computer, compete in several Grand Prix cups, or try to beat your fastest time in Time Trial mode. You can also race, battle or play soccer with up to eight friends on a single computer, play on a local network or play online with other players all over the world.","Discover page"%}
 
 {% gallery widths=32%
-/assets/wiki/STK1.3_4.jpg
-/assets/wiki/STK1.3_5.jpg
-/assets/wiki/STK1.3_6.jpg
+/assets/gallery/STK1.3_4.jpg
+/assets/gallery/STK1.3_5.jpg
+/assets/gallery/STK1.3_6.jpg
 %}
 
-{% capture main_characters -%}
-{%translate Main Characters%}
+{% capture tracks -%}
+{%translate "Exciting tracks","Discover page - section title"%}
 {%- endcapture %}
-{%main_title {{ main_characters }}%}
 
-{% capture tux -%}
-{%translate Tux%}
-{%- endcapture -%}
-{%- capture tux_desc -%}
-{%translate "The hero of SuperTuxKart. Tux is a brave penguin who must save his friend, Gnu, from the evil clutches of Nolok. Tux is the mascot of Linux."%}
+{% capture section_tracks -%}
+{%main_title {{ tracks }}%}
+
+{%translate "**SuperTuxKart 1.5 features 21 official tracks**, as well as two gift package tracks that will become part of the base game with STK Evolution.","Discover page"%}
+
+{%translate "SuperTuxKart's tracks offer many environments, from snowy mountains to tropical jungles, from underground tunnels to spaceships.","Discover page"%}
+
+{%translate "There is also a wide variety in gameplay, including alternative paths and secret paths just waiting to be discovered.","Discover page"%}
+
+{%translate "**Dozens of fun addon tracks can also be installed** within the game to keep the experience fresh.","Discover page"%}
 {%- endcapture %}
-{% include character_presentation name=tux type="odd" description=tux_desc icon="/assets/wiki/Character_tux_icon.png" %}
 
-{% capture gnu -%}
-{%translate Gnu%}
-{%- endcapture -%}
-{%- capture gnu_desc -%}
-{%translate "Tux's wise mentor, Gnu rides a flying carpet and lives peacefully in a pagoda. When Nolok captures him, the entire kingdom will try to save him. Gnu is the mascot of the GNU Project."%}
+{% gallery mode=sidebar, widths=360px, picture_side=left, text={{ section_tracks }}
+/assets/gallery/STK0.9.3_2.jpg,,,SuperTuxKart: Suzanne heading towards Cornfield Crossing's barn
+%}
+
+
+{% capture characters -%}
+{%translate "Endearing characters","Discover page - section title"%}
 {%- endcapture %}
-{% include character_presentation name=gnu type="even" description=gnu_desc icon="/assets/wiki/Character_gnu_icon.png" %}
 
-{% capture nolok -%}
-{%translate Nolok%}
-{%- endcapture -%}
-{%- capture nolok_desc -%}
-{%translate "The villain of SuperTuxKart, Nolok is always concocting some sort of malevolent plan inside his fiery lava castle."%}
+{% capture section_characters -%}
+{%main_title {{ characters }}%}
+
+{%translate "SuperTuxKart 1.5 offers 18 official karts, within three different kart classes.","Discover page"%}
+
+{%translate "Many of SuperTuxKart's characters are mascots of open-source projects, including Tux the penguin. Get to know them better by visiting our [Characters page](Characters)!","Discover page"%}
+
+{%translate "Hundreds of additional karts are also available as addons.","Discover page"%}
 {%- endcapture %}
-{% include character_presentation name=nolok type="odd" description=nolok_desc icon="/assets/wiki/Character_nolok_icon.png" %}
 
-{% capture additional_characters -%}
-{%translate Additional Characters%}
+{% gallery mode=sidebar, widths=217px, picture_side=right, text={{ section_characters }}
+/assets/wiki/FourCharacters.png,,Characters,Icons for four characters of SuperTuxKart: Tux; Sara; Kiki; and Konqi
+%}
+
+
+{% capture powerups -%}
+{%translate "Varied powerups","Discover page - section title"%}
 {%- endcapture %}
-{%main_title {{ additional_characters }}%}
 
-<table>
-<tr>
-{%- capture sara -%}
-{%translate Sara%}
-{%- endcapture -%}
-{%- capture sara_desc -%}
-{%translate "Sara is a powerful magician, and the ruler of the Mascot Kingdom. She races using a specialised snowmobile. She is the mascot of the OpenGameArt website."%}
-{%- endcapture -%}
-{% include character_presentation_small name=sara type="odd" description=sara_desc icon="/assets/wiki/Character_sara_icon.png" %}
+{% capture section_powerups -%}
+{%main_title {{ powerups }}%}
 
-{%- capture wilber -%}
-{%translate Wilber%}
-{%- endcapture -%}
-{%- capture wilber_desc -%}
-{%translate "Wilber is the official cameraman who works for WTXB-TV to record kart races, which are very popular in the Mascot Kingdom. He is the mascot of GIMP."%}
-{%- endcapture -%}
-{% include character_presentation_small name=wilber type="even" description=wilber_desc icon="/assets/wiki/Character_wilber_icon.png" %}
-</tr>
-<tr>
-{%- capture puffy -%}
-{%translate Puffy%}
-{%- endcapture -%}
-{%- capture puffy_desc -%}
-{%translate "Puffy races mainly to earn enough money to accomplish his dream: to buy a submarine. He is the mascot of the OpenBSD project."%}
-{%- endcapture -%}
-{% include character_presentation_small name=puffy type="odd" description=puffy_desc icon="/assets/wiki/Character_puffy_icon.png" %}
+{%translate "There are 9 different powerups available in SuperTuxKart 1.5, which players can collect in gift boxes.","Discover page"%}
 
-{%- capture pidgin -%}
-{%translate Pidgin%}
-{%- endcapture -%}
-{%- capture pidgin_desc -%}
-{%translate "Pidgin's ability to fly makes him perfect to deliver the results of the Grand Prix around the Mascot Kingdom. He is the mascot of Pidgin."%}
-{%- endcapture -%}
-{% include character_presentation_small name=pidgin type="even" description=pidgin_desc icon="/assets/wiki/Character_pidgin_icon.png" %}
-</tr>
-<tr>
-{%- capture godette -%}
-{%translate Godette%}
-{%- endcapture -%}
-{%- capture godette_desc -%}
-{%translate "Godette is the mascot of Godot and truly a tech girl. She is never seen without her friend, GDBot, a robot she built and programmed herself. They even race together in a unique tandem kart."%}
-{%- endcapture -%}
-{% include character_presentation_small name=godette type="odd" description=godette_desc icon="/assets/wiki/Character_godette_icon.png" %}
+{%translate "Players in worse positions get better powerups to help them catch up, but there is also a lot of skill involved to get the most out of the powerups you receive.","Discover page"%}
 
-{%- capture amanda -%}
-{%translate Amanda%}
-{%- endcapture -%}
-{%- capture amanda_desc -%}
-{%translate "Amanda was rescued by monks when they found her in a basket as a cub. She now teaches the ancient art of racing in a monastery. She is the mascot of Window Maker."%}
-{%- endcapture -%}
-{% include character_presentation_small name=amanda type="even" description=amanda_desc icon="/assets/wiki/Character_amanda_icon.png" %}
-</tr>
-<tr>
-{%- capture emule -%}
-{%translate Emule%}
-{%- endcapture -%}
-{%- capture emule_desc -%}
-{%translate "Emule's superior knowledge of mechanical engineering allowed him to build his own kart with a turbocharged engine. He is the mascot of eMule."%}
-{%- endcapture -%}
-{% include character_presentation_small name=emule type="odd" description=emule_desc icon="/assets/wiki/Character_emule_icon.png" %}
-
-{%- capture suzanne -%}
-{%translate Suzanne%}
-{%- endcapture -%}
-{%- capture suzanne_desc -%}
-{%translate "Racing has been Suzanne's dream since childhood. She began her racing career in the prestigious Kart Academy of Val Verde. She is the mascot of Blender."%}
-{%- endcapture -%}
-{% include character_presentation_small name=suzanne type="even" description=suzanne_desc icon="/assets/wiki/Character_suzanne_icon.png" %}
-</tr>
-<tr>
-{%- capture gavroche -%}
-{%translate Gavroche%}
-{%- endcapture -%}
-{%- capture gavroche_desc -%}
-{%translate "Gavroche is a goblin that owns the Ravenbridge mansion. Sometimes he makes scary noises, tricking people into thinking the house is haunted. He is the mascot of MediaGoblin."%}
-{%- endcapture -%}
-{% include character_presentation_small name=gavroche type="odd" description=gavroche_desc icon="/assets/wiki/Character_gavroche_icon.png" %}
-
-{%- capture hexley -%}
-{%translate Hexley%}
-{%- endcapture -%}
-{%- capture hexley_desc -%}
-{%translate "Hexley's ancestors started kart racing many years ago, and generation after generation, they became very good at it. He is the mascot of Darwin."%}
-{%- endcapture -%}
-{% include character_presentation_small name=hexley type="even" description=hexley_desc icon="/assets/wiki/Character_hexley_icon.png" %}
-</tr>
-<tr>
-{%- capture xue -%}
-{%translate Xue%}
-{%- endcapture -%}
-{%- capture xue_desc -%}
-{%translate "Xue likes to stand out from the crowd, and her unusual kart reflects this. She races a special hovercraft, which is small enough to be driven by a mouse. She is the mascot of XFCE."%}
-{%- endcapture -%}
-{% include character_presentation_small name=xue type="odd" description=xue_desc icon="/assets/wiki/Character_xue_icon.png" %}
-
-{%- capture konqi -%}
-{%translate Konqi%}
-{%- endcapture -%}
-{%- capture konqi_desc -%}
-{%translate "While Konqi's ancient ancestors were dangerous and feared, dragons today are harmless... mostly. He is the mascot of the KDE project."%}
-{%- endcapture -%}
-{% include character_presentation_small name=konqi type="even" description=konqi_desc icon="/assets/wiki/Character_konqi_icon.png" %}
-</tr>
-<tr>
-{%- capture adiumy -%}
-{%translate Adiumy%}
-{%- endcapture -%}
-{%- capture adiumy_desc -%}
-{%translate "Adiumy started kart racing when he realized his legs are too short to be a soccer star. Although the other mascots sometimes make fun of his waddling gait, he is highly respected as one of the most talented racing drivers in the kingdom. Adiumy is the mascot of Adium."%}
-{%- endcapture -%}
-{% include character_presentation_small name=adiumy type="odd" description=adiumy_desc icon="/assets/wiki/Character_adiumy_icon.png" %}
-
-{%- capture kiki -%}
-{%translate Kiki%}
-{%- endcapture -%}
-{%- capture kiki_desc -%}
-{%translate "A Krita user first drew Kiki for a training manual, but as soon as the manual was printed, Kiki decided to jump off the pages and race around the world on her pen-powered aeroplane. Kiki is the mascot of the Krita digital painting program."%}
-{%- endcapture -%}
-{% include character_presentation_small name=kiki type="even" description=kiki_desc icon="/assets/wiki/Character_kiki_icon.png" %}
-</tr>
-<tr>
-{%- capture pepper -%}
-{%translate Pepper%}
-{%- endcapture -%}
-{%- capture pepper_desc -%}
-{%translate "Pepper is a little witch who loves playing with her cat Carrot. Her enthusiasm for racing ignited when her friend Kiki helped her to tune her broom with a nitro injection system and custom exhaust tips. Pepper is the main character of the Pepper & Carrot project."%}
-{%- endcapture -%}
-{% include character_presentation_small name=pepper type="odd" description=pepper_desc icon="/assets/wiki/Character_pepper_icon.png" %}
-<td></td>
-</tr>
-</table>
-
-{% capture many_more -%}
-{%translate ...And many more!%}
+{%translate "Visit our [Powerups page](Powerups) for more details: from quick overviews to detailed explanations about how each powerup work and usage tips, it is a treasure trove of information.","Discover page"%}
 {%- endcapture %}
-{%main_title {{ many_more }}%}
 
-{%translate "You can create your own characters, tracks, and arenas and share them with the SuperTuxKart community! You can do this by going to [online.supertuxkart.net](https://online.supertuxkart.net)."%}
+{% gallery mode=sidebar, widths=217px, picture_side=left, text={{ section_powerups }}
+/assets/wiki/FourPowerups.png,,Powerups,Icons for four powerups of SuperTuxKart: Bubblegum; Bowling Ball; Swatter; and Zipper
+%}
 
-{%translate If you are interested you can take a look at the [community](Community) page.%}
 
-[{%translate Terms and conditions%}](Terms)
+{% capture game_modes -%}
+{%translate "Many game modes","Discover page - section title"%}
+{%- endcapture %}
+
+{% capture section_game_modes -%}
+{%main_title {{ game_modes }}%}
+
+{%translate "**Racing with powerups is SuperTuxKart's core game mode**, with Story Mode offering challenges centered around racing to unlock all the game's content.","Discover page"%}
+
+{%translate "Some additional game modes are based on racing: **Time-Trial** allows players to test their raw driving skills without powerups; Follow-the-Leader is an elimination race.","Discover page"%}
+
+{%translate "Other game modes bring a twist to the concept of a kart game: in **Egg Hunt**, players have to explore tracks to find the hidden eggs; in **Soccer**, a team-based mode with a dedicated online community, each team tries to score more goals; while Battle mode focuses on using powerups to attack other karts.","Discover page"%}
+{%- endcapture %}
+
+{% gallery mode=sidebar, widths=320px, picture_side=right, text={{ section_game_modes }}
+/assets/wiki/GameModes.jpg,,,A collage of SuperTuxKart Egg Hunt on top and SuperTuxKart Soccer at the bottom
+%}
+
+{% capture downloads -%}
+{%translate "Millions of downloads","Discover page - section title"%}
+{%- endcapture %}
+
+{% capture section_downloads -%}
+{%main_title {{ downloads }}%}
+
+{%translate "SuperTuxKart has a worldwide community, with **over 6 million downloads and installations** across [Google Play](https://play.google.com/store/apps/details?id=org.supertuxkart.stk), [SourceForge](https://sourceforge.net/projects/supertuxkart/files/SuperTuxKart/stats/timeline?dates=2007-03-09%20to%202026-06-07), [GitHub](https://api.github.com/repos/supertuxkart/stk-code/releases) and [Flathub](https://flathub.org/en/apps/net.supertuxkart.SuperTuxKart). This figure doesn't include numerous installations through sources such as Linux package managers and website mirrors.","Discover page"%}
+
+{%translate "**Every day, over 100 players create a new SuperTuxKart online account.**","Discover page"%}
+{%- endcapture %}
+
+{% gallery mode=sidebar, widths=256px, picture_side=left, text={{ section_downloads }}
+/assets/wiki/globe_icon.png,,,A globe icon from SuperTuxKart's menu
+%}
+
+
+{% capture history -%}
+{%translate "Twenty years of history","Discover page - section title"%}
+{%- endcapture %}
+
+{% capture section_history -%}
+{%main_title {{ history }}%}
+
+{%translate "Powered by the passion of its contributors, **SuperTuxKart as a project has been in development for over 20 years.**","Discover page"%}
+
+{%translate "During this time period, SuperTuxKart has improved tremendously, with considerable changes in every aspect of the game, allowing it to remain the foremost reference for libre and open-source games.","Discover page"%}
+
+{%translate "Check out [our illustrated history of SuperTuxKart](History_of_SuperTuxKart) to discover more.","Discover page"%}
+{%- endcapture %}
+
+{% gallery mode=sidebar, widths=320px, picture_side=right, text={{ section_history }}
+assets/gallery/STK0.0.0_2.jpg,,History_of_SuperTuxKart,A screenshot showing the main menu of SuperTuxKart 0.0.0
+%}
+
+
+{% capture team -%}
+{%translate "The team behind the game","Discover page - section title"%}
+{%- endcapture %}
+
+{% capture section_team -%}
+{%main_title {{ team }}%}
+
+{%translate "The SuperTuxKart project is currently led by **Alayan** and **Sven**. BcfWorld, Samuncle and LLS are also part of the team. For many years, the project was led by **Hiker** and **Auria**.","Discover page"%}
+
+{%translate "Thanks to the libre and open-source nature of SuperTuxKart, hundreds of people have contributed over the years, ensuring the project always stays alive.","Discover page"%}
+
+{%translate "You can find more information about the people behind SuperTuxKart on our [Team](Team) page!","Discover page"%}
+{%- endcapture %}
+
+{% gallery mode=sidebar, widths=240px, picture_side=left, text={{ section_team }}
+/assets/images/blog_logo.png,,Team,SuperTuxKart's logo
+%}
+
+
+{% capture evolution -%}
+{%translate "SuperTuxKart Evolution","Discover page - section title"%}
+{%- endcapture %}
+
+{% capture section_evolution -%}
+{%main_title {{ evolution }}%}
+
+{%translate "**SuperTuxKart Evolution is our project's next major release, designed as a new game within the same game series.**","Discover page"%}
+
+{%translate "It will bring major updates to all aspects of the game, with new tracks, new karts, improved game mechanics, new powerups, improve graphical quality, and more. A [general overview](https://blog.supertuxkart.net/2025/09/supertuxkart-evolution-roadmap.html) is available on our blog.","Discover page"%}
+
+{%translate "You can find more information about the project and how to stay informed about it in [our FAQ](FAQ#supertuxkart-evolution).","Discover page"%}
+{%- endcapture %}
+
+{% gallery mode=sidebar, widths=360px, picture_side=right, text={{ section_evolution }}
+/assets/gallery/STKEvolution_1.jpg,,,SuperTuxKart Evolution preview: A view from Freytra Peak's hamlet with a beautiful brick and wood building on the left and electric lines crossing the road farther back
+%}
+
+
+{% capture download_cta -%}
+{%translate "Start racing now!","Discover page - section title"%}
+{%- endcapture %}
+
+{%main_title {{ download_cta }}%}
+
+**{%translate "Head to [our Download page](Download) to get the latest SuperTuxKart version for your device!","Discover page"%}**

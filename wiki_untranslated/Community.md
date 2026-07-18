@@ -32,7 +32,7 @@ title: Community
 </ul>
 
 <div class="additional-info" markdown="1">
-{%translate "You can also look at the [archived old forum](https://forum.freegamedev.net/viewforum.php?f=16) for past discussions."%}
+{%translate "You can also look at the [archived old forum](https://web.archive.org/web/20250831014534/https://forum.freegamedev.net/viewforum.php?f=16) for past discussions."%}
 </div>
 
 <div class="additional-info">
@@ -59,6 +59,7 @@ title: Community
 * [{%translate About player rankings%}](About_player_rankings "{%translate About player rankings%}")
 
 ## <i style="margin: 0px 5px;" class="fa fa-users"></i> {%translate For Everyone,In Community page%}
+* [{%translate Performance Testing%}](Performance_testing "{%translate Performance Testing%}")
 * [{%translate Connecting your Wiimote%}](Wiimote "{%translate Connecting your Wiimote%}")
 * [{%translate Translating SuperTuxKart%}](Translating_STK "{%translate Translating SuperTuxKart%}")
 * [{%translate Reporting Problems%}](Communication "{%translate Reporting Problems%}")
